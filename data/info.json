@@ -1,0 +1,427 @@
+[
+  {
+    "teamName": "Tsunagite",
+    "seed": 1,
+    "icon": "img/team/1.png",
+    "players": [
+      {
+        "username": "Player 1",
+        "userId": "10635981",
+        "rank": 1234,
+        "stats": {
+          "score": 123456,
+          "accuracy": 98.76
+        }
+      },
+      {
+        "username": "Player 2",
+        "userId": "10635981",
+        "rank": 2234,
+        "stats": {
+          "score": 123456,
+          "accuracy": 98.76
+        }
+      },
+      {
+        "username": "Player 3",
+        "userId": "10635981",
+        "rank": 3234,
+        "stats": {
+          "score": 123456,
+          "accuracy": 98.76
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 1,
+        "players": [
+          {
+            "username": "a",
+            "score": 1234561,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 1234526,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "beatmapId": 2,
+        "players": [
+          {
+            "username": "b",
+            "score": 1234563,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "beatmapId": 3,
+        "players": [
+          {
+            "username": "c",
+            "score": 1233456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "beatmapId": 4,
+        "players": [
+          {
+            "username": "d",
+            "score": 1234456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "beatmapId": 5,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "beatmapId": 6,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "beatmapId": 7,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "beatmapId": 8,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "beatmapId": 9,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "beatmapId": 10,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "beatmapId": 11,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 11
+      }
+    ]
+  },
+{
+    "teamName": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "seed": 2,
+    "icon": "img/team/1.png",
+    "players": [
+      {
+        "username": "Player 1",
+        "userId": "7696512",
+        "rank": 1234,
+        "stats": {
+          "score": 123456,
+          "accuracy": 98.76
+        }
+      },
+      {
+        "username": "Player 2",
+        "userId": "7696512",
+        "rank": 2234,
+        "stats": {
+          "score": 123456,
+          "accuracy": 98.76
+        }
+      },
+      {
+        "username": "Player 3",
+        "userId": "7696512",
+        "rank": 3234,
+        "stats": {
+          "score": 123456,
+          "accuracy": 98.76
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 1,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456111,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "beatmapId": 2,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "beatmapId": 3,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "beatmapId": 4,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "beatmapId": 5,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "beatmapId": 6,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 17
+      },
+      {
+        "beatmapId": 7,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "beatmapId": 8,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 19
+      },
+      {
+        "beatmapId": 9,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "beatmapId": 10,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 21
+      },
+      {
+        "beatmapId": 11,
+        "players": [
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          },
+          {
+            "username": "Player 1",
+            "score": 123456,
+            "accuracy": 98.76
+          }
+        ],
+        "rank": 22
+      }
+    ]
+  }
+
+]
