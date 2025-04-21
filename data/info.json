@@ -5,423 +5,6146 @@
     "icon": "img/team/1.png",
     "players": [
       {
-        "username": "Player 1",
-        "userId": "10635981",
-        "rank": 1234,
+        "username": "- Fubukiii",
+        "userId": 9931217,
+        "rank": 8638,
         "stats": {
-          "score": 123456,
-          "accuracy": 98.76
+          "score": 526991,
+          "accuracy": 96.86
         }
       },
       {
-        "username": "Player 2",
-        "userId": "10635981",
-        "rank": 2234,
+        "username": "electrostrike",
+        "userId": 11538640,
+        "rank": 9390,
         "stats": {
-          "score": 123456,
-          "accuracy": 98.76
+          "score": 581305,
+          "accuracy": 96.57
         }
       },
       {
-        "username": "Player 3",
-        "userId": "10635981",
-        "rank": 3234,
+        "username": "tomatohung",
+        "userId": 9669947,
+        "rank": 5378,
         "stats": {
-          "score": 123456,
-          "accuracy": 98.76
+          "score": 593805,
+          "accuracy": 96.69
         }
       }
     ],
     "scores": [
       {
-        "beatmapId": 1,
+        "beatmapId": 235880,
         "players": [
           {
-            "username": "a",
-            "score": 1234561,
-            "accuracy": 98.76
+            "username": "- Fubukiii",
+            "score": 255255,
+            "accuracy": 95.6
           },
           {
-            "username": "Player 1",
-            "score": 1234526,
-            "accuracy": 98.76
+            "username": "electrostrike",
+            "score": 459404,
+            "accuracy": 98.17
           }
         ],
-        "rank": 1
+        "rank": 17
       },
       {
-        "beatmapId": 2,
+        "beatmapId": 3916768,
         "players": [
           {
-            "username": "b",
-            "score": 1234563,
-            "accuracy": 98.76
+            "username": "electrostrike",
+            "score": 434532,
+            "accuracy": 93.17
           },
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          }
-        ],
-        "rank": 2
-      },
-      {
-        "beatmapId": 3,
-        "players": [
-          {
-            "username": "c",
-            "score": 1233456,
-            "accuracy": 98.76
-          },
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "- Fubukiii",
+            "score": 470221,
+            "accuracy": 95.98
           }
         ],
         "rank": 3
       },
       {
-        "beatmapId": 4,
+        "beatmapId": 4025608,
         "players": [
           {
-            "username": "d",
-            "score": 1234456,
-            "accuracy": 98.76
+            "username": "- Fubukiii",
+            "score": 394198,
+            "accuracy": 96.01
           },
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "tomatohung",
+            "score": 490520,
+            "accuracy": 97.88
           }
         ],
         "rank": 4
       },
       {
-        "beatmapId": 5,
+        "beatmapId": 3061893,
         "players": [
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "electrostrike",
+            "score": 494354,
+            "accuracy": 94.84
           },
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "tomatohung",
+            "score": 525786,
+            "accuracy": 95.71
           }
         ],
-        "rank": 5
+        "rank": 3
       },
       {
-        "beatmapId": 6,
+        "beatmapId": 5053534,
         "players": [
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "electrostrike",
+            "score": 332233,
+            "accuracy": 95.39
           },
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "- Fubukiii",
+            "score": 579993,
+            "accuracy": 98.03
           }
         ],
-        "rank": 6
+        "rank": 1
       },
       {
-        "beatmapId": 7,
+        "beatmapId": 4501688,
         "players": [
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "tomatohung",
+            "score": 458170,
+            "accuracy": 98.06
           },
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "electrostrike",
+            "score": 477368,
+            "accuracy": 95.71
           }
         ],
         "rank": 7
       },
       {
-        "beatmapId": 8,
+        "beatmapId": 3982546,
         "players": [
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "tomatohung",
+            "score": 446964,
+            "accuracy": 95.08
           },
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          }
-        ],
-        "rank": 8
-      },
-      {
-        "beatmapId": 9,
-        "players": [
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          },
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "- Fubukiii",
+            "score": 657820,
+            "accuracy": 97.75
           }
         ],
         "rank": 9
       },
       {
-        "beatmapId": 10,
+        "beatmapId": 4750676,
         "players": [
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "- Fubukiii",
+            "score": 1036914,
+            "accuracy": 98.27
           },
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "electrostrike",
+            "score": 1087069,
+            "accuracy": 99.65
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "tomatohung",
+            "score": 617302,
+            "accuracy": 94.9
+          },
+          {
+            "username": "electrostrike",
+            "score": 1071500,
+            "accuracy": 97.48
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "electrostrike",
+            "score": 737739,
+            "accuracy": 98.15
+          },
+          {
+            "username": "tomatohung",
+            "score": 1116294,
+            "accuracy": 97.86
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "- Fubukiii",
+            "score": 582438,
+            "accuracy": 96.39
+          },
+          {
+            "username": "tomatohung",
+            "score": 1047376,
+            "accuracy": 97.34
+          }
+        ],
+        "rank": 1
+      }
+    ]
+  },
+  {
+    "teamName": "is it blue or green",
+    "seed": 2,
+    "icon": "img/team/2.png",
+    "players": [
+      {
+        "username": "t4hN",
+        "userId": 18948749,
+        "rank": 3127,
+        "stats": {
+          "score": 520134,
+          "accuracy": 96.32
+        }
+      },
+      {
+        "username": "raifiu",
+        "userId": 14964749,
+        "rank": 9677,
+        "stats": {
+          "score": 574848,
+          "accuracy": 95.54
+        }
+      },
+      {
+        "username": "AuroraDieu",
+        "userId": 18349586,
+        "rank": 21093,
+        "stats": {
+          "score": 541682,
+          "accuracy": 96.82
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "AuroraDieu",
+            "score": 500807,
+            "accuracy": 98.34
+          },
+          {
+            "username": "t4hN",
+            "score": 567090,
+            "accuracy": 98.11
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "raifiu",
+            "score": 336615,
+            "accuracy": 95.1
+          },
+          {
+            "username": "AuroraDieu",
+            "score": 365036,
+            "accuracy": 93.3
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "AuroraDieu",
+            "score": 315776,
+            "accuracy": 96.34
+          },
+          {
+            "username": "t4hN",
+            "score": 401578,
+            "accuracy": 95.93
           }
         ],
         "rank": 10
       },
       {
-        "beatmapId": 11,
+        "beatmapId": 3061893,
         "players": [
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "t4hN",
+            "score": 418140,
+            "accuracy": 93.49
           },
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "raifiu",
+            "score": 787559,
+            "accuracy": 93.49
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "raifiu",
+            "score": 242970,
+            "accuracy": 93.78
+          },
+          {
+            "username": "AuroraDieu",
+            "score": 472478,
+            "accuracy": 96.21
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "AuroraDieu",
+            "score": 363383,
+            "accuracy": 96.56
+          },
+          {
+            "username": "t4hN",
+            "score": 455506,
+            "accuracy": 99.06
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "t4hN",
+            "score": 529569,
+            "accuracy": 96.05
+          },
+          {
+            "username": "raifiu",
+            "score": 663371,
+            "accuracy": 97.6
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "raifiu",
+            "score": 672261,
+            "accuracy": 97.32
+          },
+          {
+            "username": "AuroraDieu",
+            "score": 1008538,
+            "accuracy": 98.7
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "t4hN",
+            "score": 573724,
+            "accuracy": 96.4
+          },
+          {
+            "username": "AuroraDieu",
+            "score": 760714,
+            "accuracy": 98.28
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "raifiu",
+            "score": 1041283,
+            "accuracy": 95.97
+          },
+          {
+            "username": "t4hN",
+            "score": 1054784,
+            "accuracy": 96.54
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "t4hN",
+            "score": 625984,
+            "accuracy": 94.97
+          },
+          {
+            "username": "AuroraDieu",
+            "score": 957880,
+            "accuracy": 96.85
+          }
+        ],
+        "rank": 2
+      }
+    ]
+  },
+  {
+    "teamName": "BNTT",
+    "seed": 3,
+    "icon": "img/team/3.png",
+    "players": [
+      {
+        "username": "25 FPS",
+        "userId": 31659938,
+        "rank": 18471,
+        "stats": {
+          "score": 360584,
+          "accuracy": 92.29
+        }
+      },
+      {
+        "username": "Astrial",
+        "userId": 18373250,
+        "rank": 7069,
+        "stats": {
+          "score": 584065,
+          "accuracy": 95.89
+        }
+      },
+      {
+        "username": "ilovepp16782",
+        "userId": 20864743,
+        "rank": 4101,
+        "stats": {
+          "score": 625964,
+          "accuracy": 96.82
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "ilovepp16782",
+            "score": 404413,
+            "accuracy": 96.59
+          },
+          {
+            "username": "Astrial",
+            "score": 420294,
+            "accuracy": 98.38
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "25 FPS",
+            "score": 271281,
+            "accuracy": 92.82
+          },
+          {
+            "username": "ilovepp16782",
+            "score": 366128,
+            "accuracy": 95.21
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "Astrial",
+            "score": 388707,
+            "accuracy": 96.4
+          },
+          {
+            "username": "ilovepp16782",
+            "score": 959399,
+            "accuracy": 98.88
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "ilovepp16782",
+            "score": 330794,
+            "accuracy": 92.7
+          },
+          {
+            "username": "Astrial",
+            "score": 342121,
+            "accuracy": 93.69
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "25 FPS",
+            "score": 92932,
+            "accuracy": 81.97
+          },
+          {
+            "username": "ilovepp16782",
+            "score": 492244,
+            "accuracy": 96.69
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "Astrial",
+            "score": 989642,
+            "accuracy": 97.08
+          },
+          {
+            "username": "ilovepp16782",
+            "score": 1052382,
+            "accuracy": 98.85
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "25 FPS",
+            "score": 458589,
+            "accuracy": 97.52
+          },
+          {
+            "username": "Astrial",
+            "score": 623629,
+            "accuracy": 95.27
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "25 FPS",
+            "score": 364855,
+            "accuracy": 91.52
+          },
+          {
+            "username": "Astrial",
+            "score": 759991,
+            "accuracy": 96.28
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "ilovepp16782",
+            "score": 713921,
+            "accuracy": 97.69
+          },
+          {
+            "username": "25 FPS",
+            "score": 802292,
+            "accuracy": 95.82
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "Astrial",
+            "score": 998574,
+            "accuracy": 94.69
+          },
+          {
+            "username": "ilovepp16782",
+            "score": 1083708,
+            "accuracy": 97.93
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "25 FPS",
+            "score": 458556,
+            "accuracy": 94.11
+          },
+          {
+            "username": "Astrial",
+            "score": 638089,
+            "accuracy": 95.35
+          }
+        ],
+        "rank": 9
+      }
+    ]
+  },
+  {
+    "teamName": "HanuTruongLon",
+    "seed": 4,
+    "icon": "img/team/4.png",
+    "players": [
+      {
+        "username": "Phan Dinh Tung",
+        "userId": 12130373,
+        "rank": 6148,
+        "stats": {
+          "score": 540510,
+          "accuracy": 94.29
+        }
+      },
+      {
+        "username": "Another Guy",
+        "userId": 4540667,
+        "rank": 2314,
+        "stats": {
+          "score": 658756,
+          "accuracy": 98.32
+        }
+      },
+      {
+        "username": "namirin4",
+        "userId": 14239304,
+        "rank": 52942,
+        "stats": {
+          "score": 252149,
+          "accuracy": 88.71
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "Phan Dinh Tung",
+            "score": 424314,
+            "accuracy": 96.88
+          },
+          {
+            "username": "Another Guy",
+            "score": 464900,
+            "accuracy": 98.96
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "namirin4",
+            "score": 198664,
+            "accuracy": 88.36
+          },
+          {
+            "username": "Another Guy",
+            "score": 563799,
+            "accuracy": 97.87
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "namirin4",
+            "score": 216665,
+            "accuracy": 92.85
+          },
+          {
+            "username": "Phan Dinh Tung",
+            "score": 587771,
+            "accuracy": 97.97
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "Another Guy",
+            "score": 334099,
+            "accuracy": 95.95
+          },
+          {
+            "username": "Phan Dinh Tung",
+            "score": 827068,
+            "accuracy": 94.88
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "namirin4",
+            "score": 214477,
+            "accuracy": 88.59
+          },
+          {
+            "username": "Phan Dinh Tung",
+            "score": 374440,
+            "accuracy": 96.3
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "namirin4",
+            "score": 268672,
+            "accuracy": 92.52
+          },
+          {
+            "username": "Another Guy",
+            "score": 623394,
+            "accuracy": 98.59
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "Phan Dinh Tung",
+            "score": 579718,
+            "accuracy": 95.66
+          },
+          {
+            "username": "Another Guy",
+            "score": 822224,
+            "accuracy": 99.3
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "namirin4",
+            "score": 429922,
+            "accuracy": 94.98
+          },
+          {
+            "username": "Another Guy",
+            "score": 1029527,
+            "accuracy": 98.1
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "namirin4",
+            "score": 297605,
+            "accuracy": 74.94
+          },
+          {
+            "username": "Phan Dinh Tung",
+            "score": 981315,
+            "accuracy": 93.67
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "Phan Dinh Tung",
+            "score": 330485,
+            "accuracy": 85.52
+          },
+          {
+            "username": "Another Guy",
+            "score": 1194392,
+            "accuracy": 99.81
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "Phan Dinh Tung",
+            "score": 588364,
+            "accuracy": 93.41
+          },
+          {
+            "username": "Another Guy",
+            "score": 794154,
+            "accuracy": 98.01
+          }
+        ],
+        "rank": 6
+      }
+    ]
+  },
+  {
+    "teamName": "BANH MYYY RAM RAM",
+    "seed": 5,
+    "icon": "img/team/5.png",
+    "players": [
+      {
+        "username": "MumeiLover",
+        "userId": 12068522,
+        "rank": 11622,
+        "stats": {
+          "score": 577565,
+          "accuracy": 95.79
+        }
+      },
+      {
+        "username": "Salt-HiyoKotori",
+        "userId": 11925339,
+        "rank": 21201,
+        "stats": {
+          "score": 452758,
+          "accuracy": 93.38
+        }
+      },
+      {
+        "username": "realshin",
+        "userId": 8006029,
+        "rank": 5787,
+        "stats": {
+          "score": 502140,
+          "accuracy": 94.92
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "realshin",
+            "score": 478424,
+            "accuracy": 96.49
+          },
+          {
+            "username": "MumeiLover",
+            "score": 744326,
+            "accuracy": 98.71
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "MumeiLover",
+            "score": 168961,
+            "accuracy": 86.58
+          },
+          {
+            "username": "realshin",
+            "score": 517837,
+            "accuracy": 94.8
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "MumeiLover",
+            "score": 350834,
+            "accuracy": 95.41
+          },
+          {
+            "username": "Salt-HiyoKotori",
+            "score": 369856,
+            "accuracy": 96.11
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "Salt-HiyoKotori",
+            "score": 240658,
+            "accuracy": 86.51
+          },
+          {
+            "username": "realshin",
+            "score": 324734,
+            "accuracy": 92.42
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "realshin",
+            "score": 301342,
+            "accuracy": 92.74
+          },
+          {
+            "username": "Salt-HiyoKotori",
+            "score": 335668,
+            "accuracy": 92.99
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "realshin",
+            "score": 489284,
+            "accuracy": 97.98
+          },
+          {
+            "username": "MumeiLover",
+            "score": 718688,
+            "accuracy": 99.11
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "Salt-HiyoKotori",
+            "score": 424277,
+            "accuracy": 92.4
+          },
+          {
+            "username": "MumeiLover",
+            "score": 637386,
+            "accuracy": 97.13
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "MumeiLover",
+            "score": 994100,
+            "accuracy": 98.01
+          },
+          {
+            "username": "Salt-HiyoKotori",
+            "score": 1019824,
+            "accuracy": 97.75
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "Salt-HiyoKotori",
+            "score": 549056,
+            "accuracy": 94.53
+          },
+          {
+            "username": "realshin",
+            "score": 670133,
+            "accuracy": 96.09
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "realshin",
+            "score": 1050072,
+            "accuracy": 96.06
+          },
+          {
+            "username": "MumeiLover",
+            "score": 1075505,
+            "accuracy": 97.67
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "MumeiLover",
+            "score": 388348,
+            "accuracy": 93.73
+          },
+          {
+            "username": "realshin",
+            "score": 619773,
+            "accuracy": 92.75
+          }
+        ],
+        "rank": 10
+      }
+    ]
+  },
+  {
+    "teamName": "TEAM THỦ KHOA",
+    "seed": 6,
+    "icon": "img/team/6.png",
+    "players": [
+      {
+        "username": "Neuter",
+        "userId": 17945861,
+        "rank": 6049,
+        "stats": {
+          "score": 327296,
+          "accuracy": 90.45
+        }
+      },
+      {
+        "username": "smthelse",
+        "userId": 13238121,
+        "rank": 4728,
+        "stats": {
+          "score": 703053,
+          "accuracy": 98.03
+        }
+      },
+      {
+        "username": "[-Hoshino-]",
+        "userId": 33899498,
+        "rank": 87322,
+        "stats": {
+          "score": 313820,
+          "accuracy": 91.09
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "Neuter",
+            "score": 335337,
+            "accuracy": 93.89
+          },
+          {
+            "username": "smthelse",
+            "score": 725151,
+            "accuracy": 98.5
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "Neuter",
+            "score": 363657,
+            "accuracy": 94.44
+          },
+          {
+            "username": "smthelse",
+            "score": 556808,
+            "accuracy": 96.33
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "[-Hoshino-]",
+            "score": 369176,
+            "accuracy": 96.53
+          },
+          {
+            "username": "smthelse",
+            "score": 926356,
+            "accuracy": 99.12
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "[-Hoshino-]",
+            "score": 238759,
+            "accuracy": 89.05
+          },
+          {
+            "username": "Neuter",
+            "score": 262584,
+            "accuracy": 92.02
+          }
+        ],
+        "rank": 17
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "[-Hoshino-]",
+            "score": 120051,
+            "accuracy": 82.15
+          },
+          {
+            "username": "smthelse",
+            "score": 538252,
+            "accuracy": 97.33
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "Neuter",
+            "score": 309256,
+            "accuracy": 94.87
+          },
+          {
+            "username": "smthelse",
+            "score": 784483,
+            "accuracy": 97.42
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "Neuter",
+            "score": 409286,
+            "accuracy": 92.67
+          },
+          {
+            "username": "smthelse",
+            "score": 543773,
+            "accuracy": 97.48
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Neuter",
+            "score": 583865,
+            "accuracy": 94.59
+          },
+          {
+            "username": "[-Hoshino-]",
+            "score": 635851,
+            "accuracy": 96.28
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "[-Hoshino-]",
+            "score": 245197,
+            "accuracy": 89.94
+          },
+          {
+            "username": "smthelse",
+            "score": 916156,
+            "accuracy": 98.49
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "[-Hoshino-]",
+            "score": 447069,
+            "accuracy": 92.6
+          },
+          {
+            "username": "smthelse",
+            "score": 1157747,
+            "accuracy": 98.94
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "Neuter",
+            "score": 174589,
+            "accuracy": 70.68
+          },
+          {
+            "username": "smthelse",
+            "score": 774179,
+            "accuracy": 98.64
+          }
+        ],
+        "rank": 13
+      }
+    ]
+  },
+  {
+    "teamName": "QUÝ ÔNG LỊCH LÃM",
+    "seed": 7,
+    "icon": "img/team/7.png",
+    "players": [
+      {
+        "username": "puckyu poi",
+        "userId": 11719766,
+        "rank": 8687,
+        "stats": {
+          "score": 558964,
+          "accuracy": 93.33
+        }
+      },
+      {
+        "username": "Murasaki Rie",
+        "userId": 23512240,
+        "rank": 40058,
+        "stats": {
+          "score": 392465,
+          "accuracy": 92.57
+        }
+      },
+      {
+        "username": "phuc pinku",
+        "userId": 11714674,
+        "rank": 20585,
+        "stats": {
+          "score": 439718,
+          "accuracy": 90.37
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "phuc pinku",
+            "score": 313361,
+            "accuracy": 95.27
+          },
+          {
+            "username": "puckyu poi",
+            "score": 756268,
+            "accuracy": 98.17
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "puckyu poi",
+            "score": 150674,
+            "accuracy": 81.47
+          },
+          {
+            "username": "phuc pinku",
+            "score": 237815,
+            "accuracy": 83.82
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "Murasaki Rie",
+            "score": 384710,
+            "accuracy": 95.94
+          },
+          {
+            "username": "puckyu poi",
+            "score": 477246,
+            "accuracy": 96.3
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "phuc pinku",
+            "score": 397419,
+            "accuracy": 88.21
+          },
+          {
+            "username": "Murasaki Rie",
+            "score": 463975,
+            "accuracy": 91.79
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "puckyu poi",
+            "score": 314035,
+            "accuracy": 92.65
+          },
+          {
+            "username": "Murasaki Rie",
+            "score": 318345,
+            "accuracy": 94.9
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "phuc pinku",
+            "score": 495159,
+            "accuracy": 92.98
+          },
+          {
+            "username": "puckyu poi",
+            "score": 717920,
+            "accuracy": 94.79
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "puckyu poi",
+            "score": 576768,
+            "accuracy": 94.46
+          },
+          {
+            "username": "phuc pinku",
+            "score": 916821,
+            "accuracy": 94.42
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Murasaki Rie",
+            "score": 321003,
+            "accuracy": 90.56
+          },
+          {
+            "username": "phuc pinku",
+            "score": 503702,
+            "accuracy": 91.21
+          }
+        ],
+        "rank": 17
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "Murasaki Rie",
+            "score": 272970,
+            "accuracy": 90.04
+          },
+          {
+            "username": "puckyu poi",
+            "score": 1005401,
+            "accuracy": 94.1
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "Murasaki Rie",
+            "score": 802159,
+            "accuracy": 92.17
+          },
+          {
+            "username": "puckyu poi",
+            "score": 835988,
+            "accuracy": 92.32
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "phuc pinku",
+            "score": 465482,
+            "accuracy": 86.66
+          },
+          {
+            "username": "puckyu poi",
+            "score": 745173,
+            "accuracy": 95.73
+          }
+        ],
+        "rank": 7
+      }
+    ]
+  },
+  {
+    "teamName": "QUAIVATNOILAU KORAU",
+    "seed": 8,
+    "icon": "img/team/8.png",
+    "players": [
+      {
+        "username": "_Casiofx580vnx",
+        "userId": 848961,
+        "rank": 2189,
+        "stats": {
+          "score": 710585,
+          "accuracy": 97.61
+        }
+      },
+      {
+        "username": "[Geno]",
+        "userId": 6790404,
+        "rank": 21178,
+        "stats": {
+          "score": 391335,
+          "accuracy": 93.34
+        }
+      },
+      {
+        "username": "Muneni",
+        "userId": 11168465,
+        "rank": 34793,
+        "stats": {
+          "score": 93485,
+          "accuracy": 80.13
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "[Geno]",
+            "score": 322465,
+            "accuracy": 95.87
+          },
+          {
+            "username": "_Casiofx580vnx",
+            "score": 667696,
+            "accuracy": 97.96
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "[Geno]",
+            "score": 369069,
+            "accuracy": 92.71
+          },
+          {
+            "username": "_Casiofx580vnx",
+            "score": 518048,
+            "accuracy": 97.72
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "Muneni",
+            "score": 70206,
+            "accuracy": 82.22
+          },
+          {
+            "username": "_Casiofx580vnx",
+            "score": 583492,
+            "accuracy": 98.66
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "Muneni",
+            "score": 64738,
+            "accuracy": 73.25
+          },
+          {
+            "username": "[Geno]",
+            "score": 726834,
+            "accuracy": 90.95
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "[Geno]",
+            "score": 268438,
+            "accuracy": 92.77
+          },
+          {
+            "username": "_Casiofx580vnx",
+            "score": 413140,
+            "accuracy": 97.78
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "Muneni",
+            "score": 162752,
+            "accuracy": 89.74
+          },
+          {
+            "username": "_Casiofx580vnx",
+            "score": 708970,
+            "accuracy": 98.27
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "[Geno]",
+            "score": 440053,
+            "accuracy": 94.3
+          },
+          {
+            "username": "_Casiofx580vnx",
+            "score": 996645,
+            "accuracy": 97.17
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Muneni",
+            "score": 124973,
+            "accuracy": 80.61
+          },
+          {
+            "username": "[Geno]",
+            "score": 394950,
+            "accuracy": 90.43
+          }
+        ],
+        "rank": 23
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "[Geno]",
+            "score": 462122,
+            "accuracy": 96.09
+          },
+          {
+            "username": "_Casiofx580vnx",
+            "score": 1080923,
+            "accuracy": 96.68
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "Muneni",
+            "score": 85095,
+            "accuracy": 74.81
+          },
+          {
+            "username": "_Casiofx580vnx",
+            "score": 1048409,
+            "accuracy": 97.69
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "[Geno]",
+            "score": 359611,
+            "accuracy": 93.59
+          },
+          {
+            "username": "_Casiofx580vnx",
+            "score": 1065465,
+            "accuracy": 96.59
+          }
+        ],
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "teamName": "MBBank 0375506490",
+    "seed": 9,
+    "icon": "img/team/9.png",
+    "players": [
+      {
+        "username": "Long",
+        "userId": 11688228,
+        "rank": 2685,
+        "stats": {
+          "score": 489183,
+          "accuracy": 96.15
+        }
+      },
+      {
+        "username": "celen",
+        "userId": 6334009,
+        "rank": 5016,
+        "stats": {
+          "score": 482506,
+          "accuracy": 94.89
+        }
+      },
+      {
+        "username": "Toshee",
+        "userId": 17911347,
+        "rank": 11979,
+        "stats": {
+          "score": 466618,
+          "accuracy": 93.97
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "Toshee",
+            "score": 309980,
+            "accuracy": 96.01
+          },
+          {
+            "username": "celen",
+            "score": 391412,
+            "accuracy": 97.7
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "Toshee",
+            "score": 290734,
+            "accuracy": 89.5
+          },
+          {
+            "username": "Long",
+            "score": 351350,
+            "accuracy": 96.11
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "Toshee",
+            "score": 257045,
+            "accuracy": 93.96
+          },
+          {
+            "username": "celen",
+            "score": 476946,
+            "accuracy": 95.83
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "celen",
+            "score": 282004,
+            "accuracy": 88.33
+          },
+          {
+            "username": "Long",
+            "score": 338136,
+            "accuracy": 93.97
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "celen",
+            "score": 296238,
+            "accuracy": 93.81
+          },
+          {
+            "username": "Long",
+            "score": 392436,
+            "accuracy": 94.23
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "Toshee",
+            "score": 331553,
+            "accuracy": 94.22
+          },
+          {
+            "username": "Long",
+            "score": 452048,
+            "accuracy": 97.15
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "Toshee",
+            "score": 275446,
+            "accuracy": 91.78
+          },
+          {
+            "username": "celen",
+            "score": 1024686,
+            "accuracy": 97.98
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Toshee",
+            "score": 967961,
+            "accuracy": 96.02
+          },
+          {
+            "username": "Long",
+            "score": 1063098,
+            "accuracy": 99.22
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "Long",
+            "score": 599580,
+            "accuracy": 96.71
+          },
+          {
+            "username": "celen",
+            "score": 676426,
+            "accuracy": 97.2
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "celen",
+            "score": 522865,
+            "accuracy": 93.37
+          },
+          {
+            "username": "Toshee",
+            "score": 724140,
+            "accuracy": 94.33
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "Long",
+            "score": 558364,
+            "accuracy": 95.67
+          },
+          {
+            "username": "Toshee",
+            "score": 1007942,
+            "accuracy": 95.9
+          }
+        ],
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "teamName": "anti hd2",
+    "seed": 10,
+    "icon": "img/team/10.png",
+    "players": [
+      {
+        "username": "baoo",
+        "userId": 11021073,
+        "rank": 757,
+        "stats": {
+          "score": 648756,
+          "accuracy": 95.67
+        }
+      },
+      {
+        "username": "Cookiazi",
+        "userId": 10953457,
+        "rank": 5256,
+        "stats": {
+          "score": 308241,
+          "accuracy": 93.61
+        }
+      },
+      {
+        "username": "Kurokku",
+        "userId": 24537388,
+        "rank": 12164,
+        "stats": {
+          "score": 386437,
+          "accuracy": 94.67
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "Kurokku",
+            "score": 414308,
+            "accuracy": 97.38
+          },
+          {
+            "username": "baoo",
+            "score": 893072,
+            "accuracy": 97.4
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "Cookiazi",
+            "score": 270259,
+            "accuracy": 92.69
+          },
+          {
+            "username": "baoo",
+            "score": 847698,
+            "accuracy": 96.73
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "Kurokku",
+            "score": 159726,
+            "accuracy": 90.7
+          },
+          {
+            "username": "Cookiazi",
+            "score": 285679,
+            "accuracy": 95.92
+          }
+        ],
+        "rank": 19
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "Cookiazi",
+            "score": 246180,
+            "accuracy": 90.95
+          },
+          {
+            "username": "baoo",
+            "score": 324535,
+            "accuracy": 92.62
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "Kurokku",
+            "score": 276836,
+            "accuracy": 90.32
+          },
+          {
+            "username": "baoo",
+            "score": 327176,
+            "accuracy": 92.56
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "Cookiazi",
+            "score": 312963,
+            "accuracy": 96.95
+          },
+          {
+            "username": "baoo",
+            "score": 1037374,
+            "accuracy": 98.33
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "Cookiazi",
+            "score": 315145,
+            "accuracy": 94.42
+          },
+          {
+            "username": "Kurokku",
+            "score": 530936,
+            "accuracy": 97.71
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Cookiazi",
+            "score": 214035,
+            "accuracy": 88.87
+          },
+          {
+            "username": "Kurokku",
+            "score": 569498,
+            "accuracy": 95.97
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "Kurokku",
+            "score": 560831,
+            "accuracy": 95.91
+          },
+          {
+            "username": "baoo",
+            "score": 976942,
+            "accuracy": 95.48
+          }
+        ],
+        "rank": 4
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "baoo",
+            "score": 526499,
+            "accuracy": 95.89
+          },
+          {
+            "username": "Cookiazi",
+            "score": 771254,
+            "accuracy": 96.4
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "Cookiazi",
+            "score": 378027,
+            "accuracy": 92.66
+          },
+          {
+            "username": "baoo",
+            "score": 721956,
+            "accuracy": 96.36
+          }
+        ],
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "teamName": "o ii a i o iii a i",
+    "seed": 11,
+    "icon": "img/team/11.png",
+    "players": [
+      {
+        "username": "_Haerin",
+        "userId": 17910044,
+        "rank": 4167,
+        "stats": {
+          "score": 542679,
+          "accuracy": 95.74
+        }
+      },
+      {
+        "username": "VenomPuffs",
+        "userId": 8715313,
+        "rank": 9584,
+        "stats": {
+          "score": 450397,
+          "accuracy": 94.19
+        }
+      },
+      {
+        "username": "komurii",
+        "userId": 17766423,
+        "rank": 4444,
+        "stats": {
+          "score": 426562,
+          "accuracy": 93.58
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "VenomPuffs",
+            "score": 448769,
+            "accuracy": 95.89
+          },
+          {
+            "username": "_Haerin",
+            "score": 509295,
+            "accuracy": 97.94
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "komurii",
+            "score": 267632,
+            "accuracy": 87.42
+          },
+          {
+            "username": "VenomPuffs",
+            "score": 365768,
+            "accuracy": 90.29
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "_Haerin",
+            "score": 293962,
+            "accuracy": 95.97
+          },
+          {
+            "username": "VenomPuffs",
+            "score": 393322,
+            "accuracy": 95.58
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "komurii",
+            "score": 304567,
+            "accuracy": 91.51
+          },
+          {
+            "username": "_Haerin",
+            "score": 421630,
+            "accuracy": 93.45
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "VenomPuffs",
+            "score": 197296,
+            "accuracy": 89.56
+          },
+          {
+            "username": "komurii",
+            "score": 245232,
+            "accuracy": 92.02
+          }
+        ],
+        "rank": 22
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "komurii",
+            "score": 372577,
+            "accuracy": 95.66
+          },
+          {
+            "username": "VenomPuffs",
+            "score": 460661,
+            "accuracy": 95.84
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "VenomPuffs",
+            "score": 633261,
+            "accuracy": 97.02
+          },
+          {
+            "username": "_Haerin",
+            "score": 1002048,
+            "accuracy": 97.36
+          }
+        ],
+        "rank": 1
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "_Haerin",
+            "score": 394112,
+            "accuracy": 93.98
+          },
+          {
+            "username": "komurii",
+            "score": 987442,
+            "accuracy": 96.8
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "VenomPuffs",
+            "score": 370966,
+            "accuracy": 92.19
+          },
+          {
+            "username": "komurii",
+            "score": 583075,
+            "accuracy": 95.66
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "komurii",
+            "score": 535471,
+            "accuracy": 96.01
+          },
+          {
+            "username": "_Haerin",
+            "score": 1056513,
+            "accuracy": 96.35
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "_Haerin",
+            "score": 509042,
+            "accuracy": 95.12
+          },
+          {
+            "username": "VenomPuffs",
+            "score": 1073287,
+            "accuracy": 97.2
+          }
+        ],
+        "rank": 3
+      }
+    ]
+  },
+  {
+    "teamName": "Breaking Chad",
+    "seed": 12,
+    "icon": "img/team/12.png",
+    "players": [
+      {
+        "username": "Thorlion",
+        "userId": 16015086,
+        "rank": 7645,
+        "stats": {
+          "score": 462814,
+          "accuracy": 94.12
+        }
+      },
+      {
+        "username": "-Kiyoko-",
+        "userId": 10542491,
+        "rank": 6105,
+        "stats": {
+          "score": 537053,
+          "accuracy": 95.25
+        }
+      },
+      {
+        "username": "Umee",
+        "userId": 12143654,
+        "rank": 4778,
+        "stats": {
+          "score": 381586,
+          "accuracy": 93.01
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "Thorlion",
+            "score": 523222,
+            "accuracy": 96.37
+          },
+          {
+            "username": "-Kiyoko-",
+            "score": 734708,
+            "accuracy": 98.32
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "Thorlion",
+            "score": 219218,
+            "accuracy": 90.4
+          },
+          {
+            "username": "Umee",
+            "score": 233218,
+            "accuracy": 91.11
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "Thorlion",
+            "score": 305547,
+            "accuracy": 95.51
+          },
+          {
+            "username": "-Kiyoko-",
+            "score": 372378,
+            "accuracy": 96.4
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "Umee",
+            "score": 261730,
+            "accuracy": 89.09
+          },
+          {
+            "username": "-Kiyoko-",
+            "score": 387880,
+            "accuracy": 91.75
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "Thorlion",
+            "score": 159313,
+            "accuracy": 85.7
+          },
+          {
+            "username": "-Kiyoko-",
+            "score": 246701,
+            "accuracy": 92.38
+          }
+        ],
+        "rank": 23
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "Umee",
+            "score": 366320,
+            "accuracy": 95.92
+          },
+          {
+            "username": "Thorlion",
+            "score": 1056559,
+            "accuracy": 98.91
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "Umee",
+            "score": 407856,
+            "accuracy": 92.4
+          },
+          {
+            "username": "-Kiyoko-",
+            "score": 840855,
+            "accuracy": 98.37
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Thorlion",
+            "score": 621079,
+            "accuracy": 96.75
+          },
+          {
+            "username": "-Kiyoko-",
+            "score": 643956,
+            "accuracy": 95.5
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "Thorlion",
+            "score": 608730,
+            "accuracy": 95.2
+          },
+          {
+            "username": "Umee",
+            "score": 765194,
+            "accuracy": 98.28
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "Umee",
+            "score": 507325,
+            "accuracy": 94.24
+          },
+          {
+            "username": "-Kiyoko-",
+            "score": 984700,
+            "accuracy": 93.66
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "-Kiyoko-",
+            "score": 461212,
+            "accuracy": 95.61
+          },
+          {
+            "username": "Umee",
+            "score": 494308,
+            "accuracy": 90.01
+          }
+        ],
+        "rank": 12
+      }
+    ]
+  },
+  {
+    "teamName": "it's shrimple",
+    "seed": 13,
+    "icon": "img/team/13.png",
+    "players": [
+      {
+        "username": "Kriatix",
+        "userId": 14783137,
+        "rank": 4367,
+        "stats": {
+          "score": 506935,
+          "accuracy": 97.29
+        }
+      },
+      {
+        "username": "- Nanako -",
+        "userId": 18674427,
+        "rank": 7659,
+        "stats": {
+          "score": 349277,
+          "accuracy": 93.15
+        }
+      },
+      {
+        "username": "JackSpadez",
+        "userId": 15939670,
+        "rank": 23300,
+        "stats": {
+          "score": 298548,
+          "accuracy": 92.40
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "JackSpadez",
+            "score": 292439,
+            "accuracy": 96.45
+          },
+          {
+            "username": "Kriatix",
+            "score": 470252,
+            "accuracy": 98.88
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "- Nanako -",
+            "score": 165461,
+            "accuracy": 84.15
+          },
+          {
+            "username": "Kriatix",
+            "score": 437099,
+            "accuracy": 97.96
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "JackSpadez",
+            "score": 274405,
+            "accuracy": 93.88
+          },
+          {
+            "username": "- Nanako -",
+            "score": 371896,
+            "accuracy": 96.24
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "JackSpadez",
+            "score": 292130,
+            "accuracy": 89.6
+          },
+          {
+            "username": "Kriatix",
+            "score": 402939,
+            "accuracy": 93.25
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "- Nanako -",
+            "score": 265311,
+            "accuracy": 91.23
+          },
+          {
+            "username": "Kriatix",
+            "score": 355492,
+            "accuracy": 95.87
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "- Nanako -",
+            "score": 258027,
+            "accuracy": 92.93
+          },
+          {
+            "username": "JackSpadez",
+            "score": 283064,
+            "accuracy": 95.23
+          }
+        ],
+        "rank": 23
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "JackSpadez",
+            "score": 374229,
+            "accuracy": 93.64
+          },
+          {
+            "username": "Kriatix",
+            "score": 848029,
+            "accuracy": 98.64
+          }
+        ],
+        "rank": 7
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "- Nanako -",
+            "score": 561802,
+            "accuracy": 95.06
+          },
+          {
+            "username": "Kriatix",
+            "score": 778819,
+            "accuracy": 98.53
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "- Nanako -",
+            "score": 417598,
+            "accuracy": 96.43
+          },
+          {
+            "username": "Kriatix",
+            "score": 532363,
+            "accuracy": 97.88
+          }
+        ],
+        "rank": 21
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "JackSpadez",
+            "score": 579004,
+            "accuracy": 94.14
+          },
+          {
+            "username": "- Nanako -",
+            "score": 658766,
+            "accuracy": 96.04
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "JackSpadez",
+            "score": 180985,
+            "accuracy": 83.88
+          },
+          {
+            "username": "Kriatix",
+            "score": 560529,
+            "accuracy": 97.31
+          }
+        ],
+        "rank": 15
+      }
+    ]
+  },
+  {
+    "teamName": "Con Nhà Lành",
+    "seed": 14,
+    "icon": "img/team/14.png",
+    "players": [
+      {
+        "username": "Fayth",
+        "userId": 3318668,
+        "rank": 6760,
+        "stats": {
+          "score": 561090,
+          "accuracy": 96.37
+        }
+      },
+      {
+        "username": "GreenKusa",
+        "userId": 10377956,
+        "rank": 17978,
+        "stats": {
+          "score": 307968,
+          "accuracy": 91.42
+        }
+      },
+      {
+        "username": "[Ifnguy]",
+        "userId": 14793124,
+        "rank": 48246,
+        "stats": {
+          "score": 196488,
+          "accuracy": 86.44
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "GreenKusa",
+            "score": 246751,
+            "accuracy": 91.2
+          },
+          {
+            "username": "Fayth",
+            "score": 392506,
+            "accuracy": 98.42
+          }
+        ],
+        "rank": 21
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "[Ifnguy]",
+            "score": 111691,
+            "accuracy": 80.59
+          },
+          {
+            "username": "Fayth",
+            "score": 332523,
+            "accuracy": 93.87
+          }
+        ],
+        "rank": 17
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "[Ifnguy]",
+            "score": 149212,
+            "accuracy": 89.03
+          },
+          {
+            "username": "GreenKusa",
+            "score": 247848,
+            "accuracy": 92.8
+          }
+        ],
+        "rank": 21
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "GreenKusa",
+            "score": 214611,
+            "accuracy": 90.44
+          },
+          {
+            "username": "Fayth",
+            "score": 368880,
+            "accuracy": 92.7
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "[Ifnguy]",
+            "score": 62632,
+            "accuracy": 74.07
+          },
+          {
+            "username": "Fayth",
+            "score": 587090,
+            "accuracy": 98.51
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "GreenKusa",
+            "score": 269137,
+            "accuracy": 89.21
+          },
+          {
+            "username": "Fayth",
+            "score": 452640,
+            "accuracy": 95.51
+          }
+        ],
+        "rank": 17
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "GreenKusa",
+            "score": 288075,
+            "accuracy": 90.66
+          },
+          {
+            "username": "[Ifnguy]",
+            "score": 289104,
+            "accuracy": 89.53
+          }
+        ],
+        "rank": 22
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "[Ifnguy]",
+            "score": 324443,
+            "accuracy": 92.12
+          },
+          {
+            "username": "GreenKusa",
+            "score": 441387,
+            "accuracy": 93.12
+          }
+        ],
+        "rank": 19
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "[Ifnguy]",
+            "score": 357147,
+            "accuracy": 93.3
+          },
+          {
+            "username": "Fayth",
+            "score": 1127075,
+            "accuracy": 97.97
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "GreenKusa",
+            "score": 641696,
+            "accuracy": 94.19
+          },
+          {
+            "username": "Fayth",
+            "score": 1122689,
+            "accuracy": 98.05
+          }
+        ],
+        "rank": 5
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "GreenKusa",
+            "score": 374367,
+            "accuracy": 89.72
+          },
+          {
+            "username": "Fayth",
+            "score": 625708,
+            "accuracy": 95.9
           }
         ],
         "rank": 11
       }
     ]
   },
-{
-    "teamName": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "seed": 2,
-    "icon": "img/team/1.png",
+  {
+    "teamName": "Gufi hjhj",
+    "seed": 15,
+    "icon": "img/team/15.png",
     "players": [
       {
-        "username": "Player 1",
-        "userId": "7696512",
-        "rank": 1234,
+        "username": "Hwangindahood",
+        "userId": 17480237,
+        "rank": 5311,
         "stats": {
-          "score": 123456,
-          "accuracy": 98.76
+          "score": 409705,
+          "accuracy": 95.17
         }
       },
       {
-        "username": "Player 2",
-        "userId": "7696512",
-        "rank": 2234,
+        "username": "Sayui",
+        "userId": 14398951,
+        "rank": 34819,
         "stats": {
-          "score": 123456,
-          "accuracy": 98.76
+          "score": 290769,
+          "accuracy": 89.36
         }
       },
       {
-        "username": "Player 3",
-        "userId": "7696512",
-        "rank": 3234,
+        "username": "Miinn_",
+        "userId": 12849730,
+        "rank": 4355,
         "stats": {
-          "score": 123456,
-          "accuracy": 98.76
+          "score": 346326,
+          "accuracy": 91.45
         }
       }
     ],
     "scores": [
       {
-        "beatmapId": 1,
+        "beatmapId": 235880,
         "players": [
           {
-            "username": "Player 1",
-            "score": 123456111,
-            "accuracy": 98.76
+            "username": "Sayui",
+            "score": 328779,
+            "accuracy": 93.79
           },
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "Hwangindahood",
+            "score": 551763,
+            "accuracy": 98.34
           }
         ],
-        "rank": 12
+        "rank": 11
       },
       {
-        "beatmapId": 2,
+        "beatmapId": 3916768,
         "players": [
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "Miinn_",
+            "score": 141764.25,
+            "accuracy": 84.83
           },
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          }
-        ],
-        "rank": 13
-      },
-      {
-        "beatmapId": 3,
-        "players": [
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          },
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          }
-        ],
-        "rank": 14
-      },
-      {
-        "beatmapId": 4,
-        "players": [
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          },
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          }
-        ],
-        "rank": 15
-      },
-      {
-        "beatmapId": 5,
-        "players": [
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          },
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          }
-        ],
-        "rank": 16
-      },
-      {
-        "beatmapId": 6,
-        "players": [
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          },
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          }
-        ],
-        "rank": 17
-      },
-      {
-        "beatmapId": 7,
-        "players": [
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          },
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          }
-        ],
-        "rank": 18
-      },
-      {
-        "beatmapId": 8,
-        "players": [
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
-          },
-          {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "Hwangindahood",
+            "score": 202826,
+            "accuracy": 91.46
           }
         ],
         "rank": 19
       },
       {
-        "beatmapId": 9,
+        "beatmapId": 4025608,
         "players": [
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "Sayui",
+            "score": 188977,
+            "accuracy": 89.33
           },
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "Miinn_",
+            "score": 381013,
+            "accuracy": 95.5
           }
         ],
-        "rank": 20
+        "rank": 16
       },
       {
-        "beatmapId": 10,
+        "beatmapId": 3061893,
         "players": [
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "Sayui",
+            "score": 237524,
+            "accuracy": 84.21
           },
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "Hwangindahood",
+            "score": 316977,
+            "accuracy": 88.45
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "Sayui",
+            "score": 152460,
+            "accuracy": 84
+          },
+          {
+            "username": "Miinn_",
+            "score": 312209,
+            "accuracy": 96.96
           }
         ],
         "rank": 21
       },
       {
-        "beatmapId": 11,
+        "beatmapId": 4501688,
         "players": [
           {
-            "username": "Player 1",
-            "score": 123456,
-            "accuracy": 98.76
+            "username": "Miinn_",
+            "score": 363284,
+            "accuracy": 95.56
           },
           {
-            "username": "Player 1",
-            "score": 123456,
+            "username": "Hwangindahood",
+            "score": 534573,
             "accuracy": 98.76
+          }
+        ],
+        "rank": 8
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "Sayui",
+            "score": 326834,
+            "accuracy": 94.07
+          },
+          {
+            "username": "Miinn_",
+            "score": 777219,
+            "accuracy": 96.43
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Hwangindahood",
+            "score": 523310,
+            "accuracy": 96.88
+          },
+          {
+            "username": "Sayui",
+            "score": 634532,
+            "accuracy": 94.81
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "Miinn_",
+            "score": 528845,
+            "accuracy": 88.71
+          },
+          {
+            "username": "Hwangindahood",
+            "score": 615728,
+            "accuracy": 97.79
+          }
+        ],
+        "rank": 17
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "Miinn_",
+            "score": 203110,
+            "accuracy": 85.61
+          },
+          {
+            "username": "Sayui",
+            "score": 304409,
+            "accuracy": 85.35
+          }
+        ],
+        "rank": 27
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "Miinn_",
+            "score": 272800,
+            "accuracy": 88.01
+          },
+          {
+            "username": "Hwangindahood",
+            "score": 385864,
+            "accuracy": 94.48
+          }
+        ],
+        "rank": 17
+      }
+    ]
+  },
+  {
+    "teamName": "Hop On Strinova",
+    "seed": 16,
+    "icon": "img/team/16.png",
+    "players": [
+      {
+        "username": "- Nebby -",
+        "userId": 10635981,
+        "rank": 41710,
+        "stats": {
+          "score": 194191,
+          "accuracy": 82.88
+        }
+      },
+      {
+        "username": "Ho Quang Hieu",
+        "userId": 14953642,
+        "rank": 2011,
+        "stats": {
+          "score": 601383,
+          "accuracy": 96.49
+        }
+      },
+      {
+        "username": "NebbyMaru",
+        "userId": 11923881,
+        "rank": 58492,
+        "stats": {
+          "score": 101731,
+          "accuracy": 77.09
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "- Nebby -",
+            "score": 218732,
+            "accuracy": 91.96
+          },
+          {
+            "username": "Ho Quang Hieu",
+            "score": 499169,
+            "accuracy": 98.38
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "NebbyMaru",
+            "score": 90778,
+            "accuracy": 74.04
+          },
+          {
+            "username": "Ho Quang Hieu",
+            "score": 496299,
+            "accuracy": 96.4
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "- Nebby -",
+            "score": 120521,
+            "accuracy": 85.11
+          },
+          {
+            "username": "Ho Quang Hieu",
+            "score": 940361,
+            "accuracy": 98.38
+          }
+        ],
+        "rank": 3
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "NebbyMaru",
+            "score": 103516,
+            "accuracy": 71.71
+          },
+          {
+            "username": "- Nebby -",
+            "score": 330309,
+            "accuracy": 74.05
+          }
+        ],
+        "rank": 21
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "- Nebby -",
+            "score": 135228,
+            "accuracy": 84.55
+          },
+          {
+            "username": "Ho Quang Hieu",
+            "score": 331348,
+            "accuracy": 92.84
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "NebbyMaru",
+            "score": 113634,
+            "accuracy": 81.3
+          },
+          {
+            "username": "Ho Quang Hieu",
+            "score": 632750,
+            "accuracy": 98.59
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "- Nebby -",
+            "score": 222193,
+            "accuracy": 86.32
+          },
+          {
+            "username": "Ho Quang Hieu",
+            "score": 592823,
+            "accuracy": 96.94
+          }
+        ],
+        "rank": 17
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "NebbyMaru",
+            "score": 118627,
+            "accuracy": 78.79
+          },
+          {
+            "username": "- Nebby -",
+            "score": 310055,
+            "accuracy": 83.98
+          }
+        ],
+        "rank": 25
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "NebbyMaru",
+            "score": 81801,
+            "accuracy": 77.15
+          },
+          {
+            "username": "Ho Quang Hieu",
+            "score": 890319,
+            "accuracy": 98.46
+          }
+        ],
+        "rank": 19
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "NebbyMaru",
+            "score": 164135,
+            "accuracy": 79.56
+          },
+          {
+            "username": "Ho Quang Hieu",
+            "score": 1021245,
+            "accuracy": 95.37
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "- Nebby -",
+            "score": 84821,
+            "accuracy": 74.21
+          },
+          {
+            "username": "Ho Quang Hieu",
+            "score": 525768,
+            "accuracy": 93.04
+          }
+        ],
+        "rank": 18
+      }
+    ]
+  },
+  {
+    "teamName": "3 FatCheeks",
+    "seed": 17,
+    "icon": "img/team/17.png",
+    "players": [
+      {
+        "username": "DiB",
+        "userId": 9723349,
+        "rank": 59119,
+        "stats": {
+          "score": 140568,
+          "accuracy": 82.43
+        }
+      },
+      {
+        "username": "ShinonomeEna",
+        "userId": 8461097,
+        "rank": 6831,
+        "stats": {
+          "score": 546592,
+          "accuracy": 96.20
+        }
+      },
+      {
+        "username": "Waru x OsuKey",
+        "userId": 17932968,
+        "rank": 46133,
+        "stats": {
+          "score": 245837,
+          "accuracy": 88.67
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "Waru x OsuKey",
+            "score": 237622,
+            "accuracy": 93.19
+          },
+          {
+            "username": "ShinonomeEna",
+            "score": 602104,
+            "accuracy": 98.51
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "DiB",
+            "score": 111018,
+            "accuracy": 82.21
+          },
+          {
+            "username": "ShinonomeEna",
+            "score": 450567,
+            "accuracy": 94.01
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "Waru x OsuKey",
+            "score": 224278,
+            "accuracy": 92.55
+          },
+          {
+            "username": "ShinonomeEna",
+            "score": 609086,
+            "accuracy": 97.42
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "DiB",
+            "score": 207777,
+            "accuracy": 85.36
+          },
+          {
+            "username": "Waru x OsuKey",
+            "score": 224449,
+            "accuracy": 86.31
+          }
+        ],
+        "rank": 22
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "Waru x OsuKey",
+            "score": 148882,
+            "accuracy": 85.28
+          },
+          {
+            "username": "ShinonomeEna",
+            "score": 448645,
+            "accuracy": 96.27
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "DiB",
+            "score": 180277,
+            "accuracy": 88.42
+          },
+          {
+            "username": "ShinonomeEna",
+            "score": 376338,
+            "accuracy": 96.53
+          }
+        ],
+        "rank": 22
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "DiB",
+            "score": 215584,
+            "accuracy": 89.38
+          },
+          {
+            "username": "Waru x OsuKey",
+            "score": 261980,
+            "accuracy": 86.05
+          }
+        ],
+        "rank": 25
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Waru x OsuKey",
+            "score": 341985,
+            "accuracy": 88.27
+          },
+          {
+            "username": "ShinonomeEna",
+            "score": 1053557,
+            "accuracy": 98.79
+          }
+        ],
+        "rank": 6
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "Waru x OsuKey",
+            "score": 324849,
+            "accuracy": 86.22
+          },
+          {
+            "username": "ShinonomeEna",
+            "score": 505769,
+            "accuracy": 95.3
+          }
+        ],
+        "rank": 22
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "DiB",
+            "score": 138356,
+            "accuracy": 80.12
+          },
+          {
+            "username": "ShinonomeEna",
+            "score": 649147,
+            "accuracy": 92.77
+          }
+        ],
+        "rank": 22
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "DiB",
+            "score": 59332,
+            "accuracy": 69.12
+          },
+          {
+            "username": "Waru x OsuKey",
+            "score": 374037,
+            "accuracy": 91.48
+          }
+        ],
+        "rank": 21
+      }
+    ]
+  },
+  {
+    "teamName": "Ta Luyện Khí Ba Ngàn Năm",
+    "seed": 18,
+    "icon": "img/team/18.png",
+    "players": [
+      {
+        "username": "- Hanairo -",
+        "userId": 12635653,
+        "rank": 30719,
+        "stats": {
+          "score": 396808,
+          "accuracy": 93.25
+        }
+      },
+      {
+        "username": "Wubip",
+        "userId": 17469191,
+        "rank": 21971,
+        "stats": {
+          "score": 280879,
+          "accuracy": 91.84
+        }
+      },
+      {
+        "username": "Soul-Music123",
+        "userId": 10643374,
+        "rank": 65213,
+        "stats": {
+          "score": 299039,
+          "accuracy": 87.36
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "Wubip",
+            "score": 211968,
+            "accuracy": 92.3
+          },
+          {
+            "username": "- Hanairo -",
+            "score": 293471,
+            "accuracy": 95.54
+          }
+        ],
+        "rank": 22
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "Soul-Music123",
+            "score": 223845,
+            "accuracy": 84.91
+          },
+          {
+            "username": "Wubip",
+            "score": 321645,
+            "accuracy": 91.48
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "Wubip",
+            "score": 251270,
+            "accuracy": 93.78
+          },
+          {
+            "username": "- Hanairo -",
+            "score": 315182,
+            "accuracy": 95.4
+          }
+        ],
+        "rank": 17
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "- Hanairo -",
+            "score": 200226,
+            "accuracy": 87.42
+          },
+          {
+            "username": "Soul-Music123",
+            "score": 290274,
+            "accuracy": 86.35
+          }
+        ],
+        "rank": 19
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "Wubip",
+            "score": 206544,
+            "accuracy": 89.53
+          },
+          {
+            "username": "Soul-Music123",
+            "score": 289924,
+            "accuracy": 88.19
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "Wubip",
+            "score": 315428,
+            "accuracy": 94.93
+          },
+          {
+            "username": "- Hanairo -",
+            "score": 391014,
+            "accuracy": 94.9
+          }
+        ],
+        "rank": 19
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "Soul-Music123",
+            "score": 345839,
+            "accuracy": 87.48
+          },
+          {
+            "username": "Wubip",
+            "score": 500285,
+            "accuracy": 92.05
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Soul-Music123",
+            "score": 294415,
+            "accuracy": 88.14
+          },
+          {
+            "username": "- Hanairo -",
+            "score": 601700,
+            "accuracy": 95.41
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "Wubip",
+            "score": 224408,
+            "accuracy": 90.53
+          },
+          {
+            "username": "- Hanairo -",
+            "score": 588471,
+            "accuracy": 92.59
+          }
+        ],
+        "rank": 23
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "Soul-Music123",
+            "score": 564744,
+            "accuracy": 88.74
+          },
+          {
+            "username": "- Hanairo -",
+            "score": 691102,
+            "accuracy": 91.47
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "Soul-Music123",
+            "score": 283877,
+            "accuracy": 87.69
+          },
+          {
+            "username": "Wubip",
+            "score": 392452,
+            "accuracy": 90.12
+          }
+        ],
+        "rank": 16
+      }
+    ]
+  },
+  {
+    "teamName": "Ronaldo",
+    "seed": 19,
+    "icon": "img/team/19.png",
+    "players": [
+      {
+        "username": "Imai Lisa",
+        "userId": 12683342,
+        "rank": 27258,
+        "stats": {
+          "score": 258198,
+          "accuracy": 91.15
+        }
+      },
+      {
+        "username": "Umaruuuu",
+        "userId": 6258070,
+        "rank": 5948,
+        "stats": {
+          "score": 416949,
+          "accuracy": 95.20
+        }
+      },
+      {
+        "username": "Kirnwa",
+        "userId": 20748423,
+        "rank": 22445,
+        "stats": {
+          "score": 280854,
+          "accuracy": 90.50
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "Kirnwa",
+            "score": 222626,
+            "accuracy": 93.54
+          },
+          {
+            "username": "Umaruuuu",
+            "score": 424158,
+            "accuracy": 96.55
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "Imai Lisa",
+            "score": 192264,
+            "accuracy": 86.03
+          },
+          {
+            "username": "Umaruuuu",
+            "score": 296917,
+            "accuracy": 93.26
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "Imai Lisa",
+            "score": 115342,
+            "accuracy": 86.22
+          },
+          {
+            "username": "Kirnwa",
+            "score": 179687,
+            "accuracy": 89.29
+          }
+        ],
+        "rank": 26
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "Kirnwa",
+            "score": 180705,
+            "accuracy": 85.12
+          },
+          {
+            "username": "Umaruuuu",
+            "score": 348787,
+            "accuracy": 91.87
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "Imai Lisa",
+            "score": 242665,
+            "accuracy": 93.44
+          },
+          {
+            "username": "Umaruuuu",
+            "score": 386008,
+            "accuracy": 95.99
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "Kirnwa",
+            "score": 323551,
+            "accuracy": 95.78
+          },
+          {
+            "username": "Umaruuuu",
+            "score": 508589,
+            "accuracy": 97.18
+          }
+        ],
+        "rank": 12
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "Kirnwa",
+            "score": 294998,
+            "accuracy": 92.36
+          },
+          {
+            "username": "Imai Lisa",
+            "score": 405865,
+            "accuracy": 95.54
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Imai Lisa",
+            "score": 360610,
+            "accuracy": 94.07
+          },
+          {
+            "username": "Umaruuuu",
+            "score": 678306,
+            "accuracy": 97.79
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "Umaruuuu",
+            "score": 460532,
+            "accuracy": 93.79
+          },
+          {
+            "username": "Kirnwa",
+            "score": 525001,
+            "accuracy": 95.57
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "Imai Lisa",
+            "score": 328182,
+            "accuracy": 91.09
+          },
+          {
+            "username": "Kirnwa",
+            "score": 548839,
+            "accuracy": 91.69
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "Kirnwa",
+            "score": 247953,
+            "accuracy": 80.62
+          },
+          {
+            "username": "Imai Lisa",
+            "score": 344204,
+            "accuracy": 91.68
+          }
+        ],
+        "rank": 19
+      }
+    ]
+  },
+  {
+    "teamName": "400k Club",
+    "seed": 20,
+    "icon": "img/team/20.png",
+    "players": [
+      {
+        "username": "Distant",
+        "userId": 21122087,
+        "rank": 8047,
+        "stats": {
+          "score": 389871,
+          "accuracy": 93.46
+        }
+      },
+      {
+        "username": "tama-sama",
+        "userId": 11161495,
+        "rank": 11263,
+        "stats": {
+          "score": 207294,
+          "accuracy": 85.28
+        }
+      },
+      {
+        "username": "RudderFish07",
+        "userId": 22027151,
+        "rank": 40897,
+        "stats": {
+          "score": 243217,
+          "accuracy": 86.86
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "tama-sama",
+            "score": 366514,
+            "accuracy": 96.39
+          },
+          {
+            "username": "Distant",
+            "score": 522415,
+            "accuracy": 98.9
+          }
+        ],
+        "rank": 10
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "RudderFish07",
+            "score": 86428,
+            "accuracy": 73.19
+          },
+          {
+            "username": "Distant",
+            "score": 206256,
+            "accuracy": 85.53
+          }
+        ],
+        "rank": 23
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "tama-sama",
+            "score": 160177,
+            "accuracy": 89.91
+          },
+          {
+            "username": "Distant",
+            "score": 288275,
+            "accuracy": 95.42
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "tama-sama",
+            "score": 110331,
+            "accuracy": 72.86
+          },
+          {
+            "username": "RudderFish07",
+            "score": 337449,
+            "accuracy": 90.83
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "Distant",
+            "score": 231715,
+            "accuracy": 88.52
+          },
+          {
+            "username": "RudderFish07",
+            "score": 237599,
+            "accuracy": 91.14
+          }
+        ],
+        "rank": 19
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "tama-sama",
+            "score": 115085,
+            "accuracy": 84.92
+          },
+          {
+            "username": "Distant",
+            "score": 361560,
+            "accuracy": 95.15
+          }
+        ],
+        "rank": 24
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "RudderFish07",
+            "score": 201696,
+            "accuracy": 89.19
+          },
+          {
+            "username": "Distant",
+            "score": 602375,
+            "accuracy": 92.71
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "tama-sama",
+            "score": 279929,
+            "accuracy": 88.35
+          },
+          {
+            "username": "RudderFish07",
+            "score": 315447,
+            "accuracy": 90.78
+          }
+        ],
+        "rank": 21
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "tama-sama",
+            "score": 480033,
+            "accuracy": 94.31
+          },
+          {
+            "username": "Distant",
+            "score": 695148,
+            "accuracy": 97.69
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "RudderFish07",
+            "score": 425168,
+            "accuracy": 86.05
+          },
+          {
+            "username": "Distant",
+            "score": 672280,
+            "accuracy": 96.11
+          }
+        ],
+        "rank": 17
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "tama-sama",
+            "score": 65886,
+            "accuracy": 70.19
+          },
+          {
+            "username": "Distant",
+            "score": 293219,
+            "accuracy": 91.13
+          }
+        ],
+        "rank": 24
+      }
+    ]
+  },
+  {
+    "teamName": "Cherry Cherry Bomb",
+    "seed": 21,
+    "icon": "img/team/21.png",
+    "players": [
+      {
+        "username": "JerryJumbo",
+        "userId": 27634475,
+        "rank": 70477,
+        "stats": {
+          "score": 259342,
+          "accuracy": 88.49
+        }
+      },
+      {
+        "username": "xewth",
+        "userId": 15565196,
+        "rank": 1350,
+        "stats": {
+          "score": 432770,
+          "accuracy": 91.69
+        }
+      },
+      {
+        "username": "policevn",
+        "userId": 17619649,
+        "rank": 102837,
+        "stats": {
+          "score": 114794,
+          "accuracy": 77.37
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "policevn",
+            "score": 91029.75,
+            "accuracy": 84.93
+          },
+          {
+            "username": "xewth",
+            "score": 392795,
+            "accuracy": 96.91
+          }
+        ],
+        "rank": 25
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "JerryJumbo",
+            "score": 77247.75,
+            "accuracy": 77.4
+          },
+          {
+            "username": "xewth",
+            "score": 187075,
+            "accuracy": 83.16
+          }
+        ],
+        "rank": 24
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "policevn",
+            "score": 71831,
+            "accuracy": 83.15
+          },
+          {
+            "username": "JerryJumbo",
+            "score": 260858,
+            "accuracy": 93.18
+          }
+        ],
+        "rank": 24
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "JerryJumbo",
+            "score": 241475,
+            "accuracy": 91.94
+          },
+          {
+            "username": "xewth",
+            "score": 259481,
+            "accuracy": 89.84
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "policevn",
+            "score": 229000,
+            "accuracy": 92.77
+          },
+          {
+            "username": "xewth",
+            "score": 376185,
+            "accuracy": 89.07
+          }
+        ],
+        "rank": 11
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "JerryJumbo",
+            "score": 329769,
+            "accuracy": 93.43
+          },
+          {
+            "username": "xewth",
+            "score": 457275,
+            "accuracy": 94.22
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "policevn",
+            "score": 205370,
+            "accuracy": 78.68
+          },
+          {
+            "username": "JerryJumbo",
+            "score": 370527,
+            "accuracy": 93.06
+          }
+        ],
+        "rank": 23
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "JerryJumbo",
+            "score": 424940,
+            "accuracy": 93.2
+          },
+          {
+            "username": "xewth",
+            "score": 539531,
+            "accuracy": 91.26
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "policevn",
+            "score": 93961,
+            "accuracy": 67.22
+          },
+          {
+            "username": "xewth",
+            "score": 1081260,
+            "accuracy": 96.92
+          }
+        ],
+        "rank": 14
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "JerryJumbo",
+            "score": 459376,
+            "accuracy": 86.24
+          },
+          {
+            "username": "xewth",
+            "score": 527268,
+            "accuracy": 92.17
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "policevn",
+            "score": 49346,
+            "accuracy": 57.45
+          },
+          {
+            "username": "JerryJumbo",
+            "score": 146645,
+            "accuracy": 79.43
+          }
+        ],
+        "rank": 26
+      }
+    ]
+  },
+  {
+    "teamName": "Sung JinWoo",
+    "seed": 22,
+    "icon": "img/team/22.png",
+    "players": [
+      {
+        "username": "Zeigler",
+        "userId": 14047619,
+        "rank": 48916,
+        "stats": {
+          "score": 89382,
+          "accuracy": 73.02
+        }
+      },
+      {
+        "username": "Elnory",
+        "userId": 9983282,
+        "rank": 22126,
+        "stats": {
+          "score": 109052,
+          "accuracy": 79.93
+        }
+      },
+      {
+        "username": "_Aren",
+        "userId": 11028972,
+        "rank": 6055,
+        "stats": {
+          "score": 479369,
+          "accuracy": 94.97
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "Elnory",
+            "score": 109850,
+            "accuracy": 86.07
+          },
+          {
+            "username": "_Aren",
+            "score": 386755,
+            "accuracy": 97.59
+          }
+        ],
+        "rank": 24
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "Zeigler",
+            "score": 74268,
+            "accuracy": 77.56
+          },
+          {
+            "username": "_Aren",
+            "score": 242526,
+            "accuracy": 90.62
+          }
+        ],
+        "rank": 22
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "Zeigler",
+            "score": 113969,
+            "accuracy": 83.32
+          },
+          {
+            "username": "_Aren",
+            "score": 231504,
+            "accuracy": 93.51
+          }
+        ],
+        "rank": 23
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "Elnory",
+            "score": 88951,
+            "accuracy": 77.58
+          },
+          {
+            "username": "Zeigler",
+            "score": 111771,
+            "accuracy": 79.68
+          }
+        ],
+        "rank": 26
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "Elnory",
+            "score": 133448,
+            "accuracy": 84.15
+          },
+          {
+            "username": "_Aren",
+            "score": 371284,
+            "accuracy": 92.17
+          }
+        ],
+        "rank": 17
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "Zeigler",
+            "score": 85542,
+            "accuracy": 75.63
+          },
+          {
+            "username": "_Aren",
+            "score": 597210,
+            "accuracy": 97.65
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "Elnory",
+            "score": 138086,
+            "accuracy": 82.6
+          },
+          {
+            "username": "_Aren",
+            "score": 450093,
+            "accuracy": 95.31
+          }
+        ],
+        "rank": 21
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Zeigler",
+            "score": 85407,
+            "accuracy": 59.91
+          },
+          {
+            "username": "Elnory",
+            "score": 160568,
+            "accuracy": 84.33
+          }
+        ],
+        "rank": 27
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "Zeigler",
+            "score": 52760,
+            "accuracy": 55.47
+          },
+          {
+            "username": "_Aren",
+            "score": 1143499,
+            "accuracy": 98.52
+          }
+        ],
+        "rank": 13
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "Zeigler",
+            "score": 151547,
+            "accuracy": 79.56
+          },
+          {
+            "username": "_Aren",
+            "score": 537442,
+            "accuracy": 94.07
+          }
+        ],
+        "rank": 23
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "Elnory",
+            "score": 60672,
+            "accuracy": 64.85
+          },
+          {
+            "username": "_Aren",
+            "score": 875244,
+            "accuracy": 95.29
+          }
+        ],
+        "rank": 14
+      }
+    ]
+  },
+  {
+    "teamName": "Quái vật PQT RAM RAM RAM",
+    "seed": 23,
+    "icon": "img/team/23.png",
+    "players": [
+      {
+        "username": "Hanamaru_",
+        "userId": 13004516,
+        "rank": 19878,
+        "stats": {
+          "score": 196164,
+          "accuracy": 84.36
+        }
+      },
+      {
+        "username": "namiee",
+        "userId": 14279837,
+        "rank": 48252,
+        "stats": {
+          "score": 237285,
+          "accuracy": 82.89
+        }
+      },
+      {
+        "username": "budget boydn",
+        "userId": 8945565,
+        "rank": 22911,
+        "stats": {
+          "score": 342124,
+          "accuracy": 94.20
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "budget boydn",
+            "score": 274419,
+            "accuracy": 95.87
+          },
+          {
+            "username": "Hanamaru_",
+            "score": 395601,
+            "accuracy": 94.68
+          }
+        ],
+        "rank": 19
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "Hanamaru_",
+            "score": 68929,
+            "accuracy": 71.1
+          },
+          {
+            "username": "namiee",
+            "score": 121004,
+            "accuracy": 79.49
+          }
+        ],
+        "rank": 25
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "namiee",
+            "score": 52007,
+            "accuracy": 74.6
+          },
+          {
+            "username": "budget boydn",
+            "score": 278250,
+            "accuracy": 96.52
+          }
+        ],
+        "rank": 25
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "Hanamaru_",
+            "score": 284713,
+            "accuracy": 89.64
+          },
+          {
+            "username": "budget boydn",
+            "score": 373302,
+            "accuracy": 87.78
+          }
+        ],
+        "rank": 9
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "Hanamaru_",
+            "score": 128559,
+            "accuracy": 82.36
+          },
+          {
+            "username": "namiee",
+            "score": 130501,
+            "accuracy": 79.2
+          }
+        ],
+        "rank": 24
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "Hanamaru_",
+            "score": 256117,
+            "accuracy": 91.34
+          },
+          {
+            "username": "budget boydn",
+            "score": 351317,
+            "accuracy": 97.21
+          }
+        ],
+        "rank": 21
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "namiee",
+            "score": 295567,
+            "accuracy": 86.86
+          },
+          {
+            "username": "budget boydn",
+            "score": 520518,
+            "accuracy": 96.74
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Hanamaru_",
+            "score": 231589,
+            "accuracy": 87.32
+          },
+          {
+            "username": "namiee",
+            "score": 711178,
+            "accuracy": 93.25
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "Hanamaru_",
+            "score": 209011,
+            "accuracy": 85.24
+          },
+          {
+            "username": "budget boydn",
+            "score": 545224,
+            "accuracy": 96.31
+          }
+        ],
+        "rank": 24
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "namiee",
+            "score": 245972,
+            "accuracy": 83.91
+          },
+          {
+            "username": "budget boydn",
+            "score": 400210,
+            "accuracy": 93.92
+          }
+        ],
+        "rank": 24
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "Hanamaru_",
+            "score": 88762,
+            "accuracy": 73.19
+          },
+          {
+            "username": "budget boydn",
+            "score": 276696,
+            "accuracy": 89.28
+          }
+        ],
+        "rank": 23
+      }
+    ]
+  },
+  {
+    "teamName": "Người Hải Hà (1 imposter)",
+    "seed": 24,
+    "icon": "img/team/24.png",
+    "players": [
+      {
+        "username": "zeanvn",
+        "userId": 18814903,
+        "rank": 116935,
+        "stats": {
+          "score": 255738,
+          "accuracy": 89.35
+        }
+      },
+      {
+        "username": "Necozane",
+        "userId": 34909141,
+        "rank": 189921,
+        "stats": {
+          "score": 46775,
+          "accuracy": 51.64
+        }
+      },
+      {
+        "username": "MikeyRea",
+        "userId": 15895452,
+        "rank": 7772,
+        "stats": {
+          "score": 424604,
+          "accuracy": 90.66
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "zeanvn",
+            "score": 312805,
+            "accuracy": 94.89
+          },
+          {
+            "username": "MikeyRea",
+            "score": 437805,
+            "accuracy": 95.16
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "Necozane",
+            "score": 16124,
+            "accuracy": 38.58
+          },
+          {
+            "username": "zeanvn",
+            "score": 129594,
+            "accuracy": 83.84
+          }
+        ],
+        "rank": 26
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "zeanvn",
+            "score": 268186,
+            "accuracy": 92.78
+          },
+          {
+            "username": "MikeyRea",
+            "score": 330393,
+            "accuracy": 93.56
+          }
+        ],
+        "rank": 15
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "Necozane",
+            "score": 50358,
+            "accuracy": 59.13
+          },
+          {
+            "username": "MikeyRea",
+            "score": 310319,
+            "accuracy": 89.92
+          }
+        ],
+        "rank": 24
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "Necozane",
+            "score": 10700,
+            "accuracy": 24.8
+          },
+          {
+            "username": "zeanvn",
+            "score": 104756,
+            "accuracy": 80.27
+          }
+        ],
+        "rank": 26
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "zeanvn",
+            "score": 212939,
+            "accuracy": 92.18
+          },
+          {
+            "username": "MikeyRea",
+            "score": 261254,
+            "accuracy": 86.63
+          }
+        ],
+        "rank": 25
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "Necozane",
+            "score": 99424,
+            "accuracy": 71.47
+          },
+          {
+            "username": "zeanvn",
+            "score": 310840,
+            "accuracy": 90.58
+          }
+        ],
+        "rank": 26
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "Necozane",
+            "score": 119814,
+            "accuracy": 77.01
+          },
+          {
+            "username": "MikeyRea",
+            "score": 449658,
+            "accuracy": 87.45
+          }
+        ],
+        "rank": 22
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "zeanvn",
+            "score": 624329,
+            "accuracy": 95.66
+          },
+          {
+            "username": "MikeyRea",
+            "score": 990023,
+            "accuracy": 93.76
+          }
+        ],
+        "rank": 2
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "zeanvn",
+            "score": 414677,
+            "accuracy": 91.14
+          },
+          {
+            "username": "MikeyRea",
+            "score": 506890,
+            "accuracy": 88.11
+          }
+        ],
+        "rank": 19
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "Necozane",
+            "score": 18530,
+            "accuracy": 38.82
+          },
+          {
+            "username": "zeanvn",
+            "score": 173163,
+            "accuracy": 82.81
+          }
+        ],
+        "rank": 27
+      }
+    ]
+  },
+  {
+    "teamName": "Free Agents",
+    "seed": 25,
+    "icon": "img/team/25.png",
+    "players": [
+      {
+        "username": "PolKet",
+        "userId": 14065788,
+        "rank": 47608,
+        "stats": {
+          "score": 244456,
+          "accuracy": 89.87
+        }
+      },
+      {
+        "username": "DanX",
+        "userId": 10542408,
+        "rank": 75596,
+        "stats": {
+          "score": 234727,
+          "accuracy": 88.94
+        }
+      },
+      {
+        "username": "rena1",
+        "userId": 20178035,
+        "rank": 97064,
+        "stats": {
+          "score": 158625,
+          "accuracy": 86.30
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "DanX",
+            "score": 176080,
+            "accuracy": 88.58
+          },
+          {
+            "username": "PolKet",
+            "score": 246544,
+            "accuracy": 94.73
+          }
+        ],
+        "rank": 26
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "DanX",
+            "score": 87502,
+            "accuracy": 76.09
+          },
+          {
+            "username": "PolKet",
+            "score": 242884,
+            "accuracy": 85.84
+          }
+        ],
+        "rank": 21
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "rena1",
+            "score": 175407,
+            "accuracy": 92.22
+          },
+          {
+            "username": "DanX",
+            "score": 236431,
+            "accuracy": 93.75
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "rena1",
+            "score": 93346,
+            "accuracy": 80.2
+          },
+          {
+            "username": "PolKet",
+            "score": 143764,
+            "accuracy": 85
+          }
+        ],
+        "rank": 25
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "rena1",
+            "score": 268584,
+            "accuracy": 93.93
+          },
+          {
+            "username": "PolKet",
+            "score": 277732,
+            "accuracy": 90.65
+          }
+        ],
+        "rank": 16
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "PolKet",
+            "score": 137773,
+            "accuracy": 87.35
+          },
+          {
+            "username": "DanX",
+            "score": 297296,
+            "accuracy": 93.58
+          }
+        ],
+        "rank": 26
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "rena1",
+            "score": 133651,
+            "accuracy": 79.96
+          },
+          {
+            "username": "DanX",
+            "score": 405354,
+            "accuracy": 92.67
+          }
+        ],
+        "rank": 24
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "rena1",
+            "score": 176017,
+            "accuracy": 87.06
+          },
+          {
+            "username": "PolKet",
+            "score": 308533,
+            "accuracy": 91.65
+          }
+        ],
+        "rank": 24
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "DanX",
+            "score": 232594,
+            "accuracy": 88.22
+          },
+          {
+            "username": "PolKet",
+            "score": 280276,
+            "accuracy": 89.08
+          }
+        ],
+        "rank": 25
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "DanX",
+            "score": 354708,
+            "accuracy": 89.17
+          },
+          {
+            "username": "PolKet",
+            "score": 486510,
+            "accuracy": 94.64
+          }
+        ],
+        "rank": 21
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "rena1",
+            "score": 159476,
+            "accuracy": 84.46
+          },
+          {
+            "username": "DanX",
+            "score": 299534,
+            "accuracy": 89.49
+          }
+        ],
+        "rank": 20
+      }
+    ]
+  },
+  {
+    "teamName": "Tổng Tài Pakistan",
+    "seed": 26,
+    "icon": "img/team/26.png",
+    "players": [
+      {
+        "username": "Moorce",
+        "userId": 7049301,
+        "rank": 53507,
+        "stats": {
+          "score": 165872,
+          "accuracy": 86.57
+        }
+      },
+      {
+        "username": "- HotaruAnh -",
+        "userId": 22694590,
+        "rank": 68220,
+        "stats": {
+          "score": 282919,
+          "accuracy": 88.73
+        }
+      },
+      {
+        "username": "-Miya",
+        "userId": 1942877,
+        "rank": 94075,
+        "stats": {
+          "score": 83409,
+          "accuracy": 70.74
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "Moorce",
+            "score": 54990,
+            "accuracy": 78.28
+          },
+          {
+            "username": "- HotaruAnh -",
+            "score": 309987,
+            "accuracy": 95.16
+          }
+        ],
+        "rank": 27
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "-Miya",
+            "score": 53291,
+            "accuracy": 67.79
+          },
+          {
+            "username": "Moorce",
+            "score": 281772,
+            "accuracy": 90.93
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "- HotaruAnh -",
+            "score": 114949,
+            "accuracy": 85.45
+          },
+          {
+            "username": "Moorce",
+            "score": 153926,
+            "accuracy": 89.06
+          }
+        ],
+        "rank": 27
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "-Miya",
+            "score": 60535,
+            "accuracy": 68.73
+          },
+          {
+            "username": "- HotaruAnh -",
+            "score": 138289,
+            "accuracy": 81.15
+          }
+        ],
+        "rank": 27
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "-Miya",
+            "score": 56775,
+            "accuracy": 68.34
+          },
+          {
+            "username": "Moorce",
+            "score": 187645,
+            "accuracy": 87.46
+          }
+        ],
+        "rank": 25
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "-Miya",
+            "score": 188552,
+            "accuracy": 89.74
+          },
+          {
+            "username": "- HotaruAnh -",
+            "score": 227057,
+            "accuracy": 88.88
+          }
+        ],
+        "rank": 27
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "Moorce",
+            "score": 217985,
+            "accuracy": 90.97
+          },
+          {
+            "username": "- HotaruAnh -",
+            "score": 575569,
+            "accuracy": 90.89
+          }
+        ],
+        "rank": 19
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "-Miya",
+            "score": 163627,
+            "accuracy": 80.09
+          },
+          {
+            "username": "Moorce",
+            "score": 215637,
+            "accuracy": 90.95
+          }
+        ],
+        "rank": 26
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "-Miya",
+            "score": 71418,
+            "accuracy": 65.1
+          },
+          {
+            "username": "- HotaruAnh -",
+            "score": 352014,
+            "accuracy": 90.84
+          }
+        ],
+        "rank": 26
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "Moorce",
+            "score": 142257,
+            "accuracy": 79.83
+          },
+          {
+            "username": "- HotaruAnh -",
+            "score": 473041,
+            "accuracy": 88.76
+          }
+        ],
+        "rank": 25
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "-Miya",
+            "score": 40298,
+            "accuracy": 55.37
+          },
+          {
+            "username": "Moorce",
+            "score": 189847,
+            "accuracy": 85.07
+          }
+        ],
+        "rank": 25
+      }
+    ]
+  },
+  {
+    "teamName": "tons",
+    "seed": 27,
+    "icon": "img/team/27.png",
+    "players": [
+      {
+        "username": "anhnhatbui",
+        "userId": 16346970,
+        "rank": 25831,
+        "stats": {
+          "score": 448276,
+          "accuracy": 92.92
+        }
+      },
+      {
+        "username": "whiteparty6996",
+        "userId": 37633244,
+        "rank": 743260,
+        "stats": {
+          "score": 4655,
+          "accuracy": 15.90
+        }
+      },
+      {
+        "username": "vtb",
+        "userId": 27620494,
+        "rank": 239826,
+        "stats": {
+          "score": 29418,
+          "accuracy": 61.34
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "vtb",
+            "score": 45811,
+            "accuracy": 76
+          },
+          {
+            "username": "anhnhatbui",
+            "score": 454532,
+            "accuracy": 97.03
+          }
+        ],
+        "rank": 23
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "whiteparty6996",
+            "score": 4696,
+            "accuracy": 19.5
+          },
+          {
+            "username": "vtb",
+            "score": 15916,
+            "accuracy": 41.88
+          }
+        ],
+        "rank": 29
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "vtb",
+            "score": 19754,
+            "accuracy": 65.39
+          },
+          {
+            "username": "anhnhatbui",
+            "score": 371275,
+            "accuracy": 95.12
+          }
+        ],
+        "rank": 22
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "whiteparty6996",
+            "score": 4321,
+            "accuracy": 14.56
+          },
+          {
+            "username": "anhnhatbui",
+            "score": 419844,
+            "accuracy": 89.13
+          }
+        ],
+        "rank": 23
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "whiteparty6996",
+            "score": 8779,
+            "accuracy": 28.84
+          },
+          {
+            "username": "vtb",
+            "score": 40746,
+            "accuracy": 65.6
+          }
+        ],
+        "rank": 28
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "vtb",
+            "score": 22013,
+            "accuracy": 61.91
+          },
+          {
+            "username": "anhnhatbui",
+            "score": 692909,
+            "accuracy": 93.59
+          }
+        ],
+        "rank": 18
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "vtb",
+            "score": 41291,
+            "accuracy": 61.32
+          },
+          {
+            "username": "anhnhatbui",
+            "score": 336904,
+            "accuracy": 91.28
+          }
+        ],
+        "rank": 27
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "whiteparty6996",
+            "score": 3969,
+            "accuracy": 10.35
+          },
+          {
+            "username": "anhnhatbui",
+            "score": 694354,
+            "accuracy": 93.16
+          }
+        ],
+        "rank": 20
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "whiteparty6996",
+            "score": 2666,
+            "accuracy": 6.98
+          },
+          {
+            "username": "vtb",
+            "score": 33725,
+            "accuracy": 56.92
+          }
+        ],
+        "rank": 29
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "vtb",
+            "score": 32952,
+            "accuracy": 61.7
+          },
+          {
+            "username": "anhnhatbui",
+            "score": 541419,
+            "accuracy": 90.51
+          }
+        ],
+        "rank": 26
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "whiteparty6996",
+            "score": 5168,
+            "accuracy": 15.19
+          },
+          {
+            "username": "anhnhatbui",
+            "score": 386336,
+            "accuracy": 93.53
           }
         ],
         "rank": 22
       }
     ]
+  },
+  {
+    "teamName": "ae thai binh2",
+    "seed": 28,
+    "icon": "img/team/28.png",
+    "players": [
+      {
+        "username": "Raven Branwen",
+        "userId": 21211350,
+        "rank": 124081,
+        "stats": {
+          "score": 80927,
+          "accuracy": 73.88
+        }
+      },
+      {
+        "username": "datneae1234567",
+        "userId": 18130630,
+        "rank": 167824,
+        "stats": {
+          "score": 89125,
+          "accuracy": 76.75
+        }
+      },
+      {
+        "username": "WaverGaming",
+        "userId": 26054264,
+        "rank": 706775,
+        "stats": {
+          "score": 4411,
+          "accuracy": 16.30
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "Raven Branwen",
+            "score": 57174,
+            "accuracy": 77.3
+          },
+          {
+            "username": "datneae1234567",
+            "score": 126181,
+            "accuracy": 88.33
+          }
+        ],
+        "rank": 28
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "datneae1234567",
+            "score": 43654,
+            "accuracy": 61.57
+          },
+          {
+            "username": "Raven Branwen",
+            "score": 101558,
+            "accuracy": 68.45
+          }
+        ],
+        "rank": 27
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "WaverGaming",
+            "score": 1634,
+            "accuracy": 12.59
+          },
+          {
+            "username": "datneae1234567",
+            "score": 59355,
+            "accuracy": 77.89
+          }
+        ],
+        "rank": 28
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "WaverGaming",
+            "score": 4473,
+            "accuracy": 16.63
+          },
+          {
+            "username": "Raven Branwen",
+            "score": 75316,
+            "accuracy": 73.13
+          }
+        ],
+        "rank": 28
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "WaverGaming",
+            "score": 9787,
+            "accuracy": 30.94
+          },
+          {
+            "username": "Raven Branwen",
+            "score": 91458,
+            "accuracy": 76.17
+          }
+        ],
+        "rank": 27
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "datneae1234567",
+            "score": 59861,
+            "accuracy": 73.45
+          },
+          {
+            "username": "Raven Branwen",
+            "score": 82207,
+            "accuracy": 79.99
+          }
+        ],
+        "rank": 28
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "WaverGaming",
+            "score": 3249,
+            "accuracy": 9.84
+          },
+          {
+            "username": "datneae1234567",
+            "score": 123610,
+            "accuracy": 80.85
+          }
+        ],
+        "rank": 28
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "WaverGaming",
+            "score": 4574,
+            "accuracy": 11.26
+          },
+          {
+            "username": "Raven Branwen",
+            "score": 150499,
+            "accuracy": 84.03
+          }
+        ],
+        "rank": 28
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "Raven Branwen",
+            "score": 73641,
+            "accuracy": 67.28
+          },
+          {
+            "username": "datneae1234567",
+            "score": 154744,
+            "accuracy": 83.06
+          }
+        ],
+        "rank": 27
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "WaverGaming",
+            "score": 4477,
+            "accuracy": 17.77
+          },
+          {
+            "username": "datneae1234567",
+            "score": 118732,
+            "accuracy": 72.12
+          }
+        ],
+        "rank": 28
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "WaverGaming",
+            "score": 4965,
+            "accuracy": 15.08
+          },
+          {
+            "username": "Raven Branwen",
+            "score": 58794,
+            "accuracy": 64.67
+          }
+        ],
+        "rank": 28
+      }
+    ]
+  },
+  {
+    "teamName": "COC 2",
+    "seed": 29,
+    "icon": "img/team/29.png",
+    "players": [
+      {
+        "username": "[-Aurora-]",
+        "userId": 33820372,
+        "rank": 391818,
+        "stats": {
+          "score": 27209,
+          "accuracy": 50.25
+        }
+      },
+      {
+        "username": "baro_test",
+        "userId": 35863392,
+        "rank": 494558,
+        "stats": {
+          "score": 15769,
+          "accuracy": 46.07
+        }
+      },
+      {
+        "username": "ndm5955",
+        "userId": 36583669,
+        "rank": 553868,
+        "stats": {
+          "score": 14367,
+          "accuracy": 43.23
+        }
+      }
+    ],
+    "scores": [
+      {
+        "beatmapId": 235880,
+        "players": [
+          {
+            "username": "baro_test",
+            "score": 10821,
+            "accuracy": 50.44
+          },
+          {
+            "username": "[-Aurora-]",
+            "score": 38593,
+            "accuracy": 66.69
+          }
+        ],
+        "rank": 29
+      },
+      {
+        "beatmapId": 3916768,
+        "players": [
+          {
+            "username": "ndm5955",
+            "score": 9475,
+            "accuracy": 32.19
+          },
+          {
+            "username": "[-Aurora-]",
+            "score": 13370,
+            "accuracy": 40.78
+          }
+        ],
+        "rank": 28
+      },
+      {
+        "beatmapId": 4025608,
+        "players": [
+          {
+            "username": "baro_test",
+            "score": 9629,
+            "accuracy": 52.22
+          },
+          {
+            "username": "ndm5955",
+            "score": 13427,
+            "accuracy": 61
+          }
+        ],
+        "rank": 29
+      },
+      {
+        "beatmapId": 3061893,
+        "players": [
+          {
+            "username": "[-Aurora-]",
+            "score": 1988,
+            "accuracy": 6.63
+          },
+          {
+            "username": "baro_test",
+            "score": 18097,
+            "accuracy": 48.85
+          }
+        ],
+        "rank": 29
+      },
+      {
+        "beatmapId": 5053534,
+        "players": [
+          {
+            "username": "ndm5955",
+            "score": 12402,
+            "accuracy": 32.54
+          },
+          {
+            "username": "baro_test",
+            "score": 30806,
+            "accuracy": 61.63
+          }
+        ],
+        "rank": 29
+      },
+      {
+        "beatmapId": 4501688,
+        "players": [
+          {
+            "username": "ndm5955",
+            "score": 16520,
+            "accuracy": 51.87
+          },
+          {
+            "username": "[-Aurora-]",
+            "score": 27227,
+            "accuracy": 61.44
+          }
+        ],
+        "rank": 29
+      },
+      {
+        "beatmapId": 3982546,
+        "players": [
+          {
+            "username": "baro_test",
+            "score": 15984,
+            "accuracy": 38.76
+          },
+          {
+            "username": "[-Aurora-]",
+            "score": 64502,
+            "accuracy": 66.28
+          }
+        ],
+        "rank": 29
+      },
+      {
+        "beatmapId": 4750676,
+        "players": [
+          {
+            "username": "baro_test",
+            "score": 20933,
+            "accuracy": 41.39
+          },
+          {
+            "username": "ndm5955",
+            "score": 28668,
+            "accuracy": 44.03
+          }
+        ],
+        "rank": 29
+      },
+      {
+        "beatmapId": 4914695,
+        "players": [
+          {
+            "username": "baro_test",
+            "score": 15548,
+            "accuracy": 42.9
+          },
+          {
+            "username": "[-Aurora-]",
+            "score": 48803,
+            "accuracy": 64.24
+          }
+        ],
+        "rank": 28
+      },
+      {
+        "beatmapId": 2205163,
+        "players": [
+          {
+            "username": "[-Aurora-]",
+            "score": 14942,
+            "accuracy": 45.68
+          },
+          {
+            "username": "ndm5955",
+            "score": 16909,
+            "accuracy": 48.7
+          }
+        ],
+        "rank": 29
+      },
+      {
+        "beatmapId": 2117132,
+        "players": [
+          {
+            "username": "ndm5955",
+            "score": 12113,
+            "accuracy": 32.26
+          },
+          {
+            "username": "baro_test",
+            "score": 12338,
+            "accuracy": 32.41
+          }
+        ],
+        "rank": 29
+      }
+    ]
   }
-
 ]

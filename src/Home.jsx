@@ -16,9 +16,9 @@ function Home() {
     const [seed, setSeed] = useState(1)
     const [seedData, setSeedData] = useState({scores: [], players: []})
     const handleKeyPress = useCallback((event) => {
-        if (event.key === 'a') {
+        if (event.key === 'a' || event.key === 'ArrowLeft') {
                 setSeed((prevSeed) => prevSeed !== 1 ? prevSeed - 1 : prevSeed);
-        } else if (event.key === 'd') {
+        } else if (event.key === 'd' || event.key === 'ArrowRight') {
                 setSeed((prevSeed) => prevSeed !== data.length ? prevSeed + 1 : prevSeed);
         }
         console.log('hi')
@@ -42,21 +42,26 @@ function Home() {
     }, [seed]);
 
     return (
-        <main className={'p-[48px] border-black w-[1920px] h-[1080px] flex flex-col bg-[#243642]'}>
+        <main className={'p-[48px] border-black w-[1920px] h-[1080px] flex flex-col'}>
             <div className='info-container flex w-full h-[864px] gap-[40px]'>
                 <div className={"w-[610px] flex flex-col h-full text-white"}>
                     <div className={'w-full h-[160px] bg-[#89d6c0] rounded-t-[15px] flex items-center p-[20px]'}>
-                        <img src='/placeholder.jpg' className={'w-[120px] h-[120px] rounded-md border-[4px] border-[#243642]'} alt='team logo'/>
+                        <img src={seedData.icon}
+                             className={'w-[120px] h-[120px] rounded-md border-[4px] border-[#243642]'}
+                             alt='team logo'/>
                         <div className={'ml-[19px] w-[431px] text-wrap max-w-[431px]'}>
-                            <span className={'font-bold text-[48px] text-[#243642] text-left break-all leading-10 overflow-hidden'}>
-                                Stars Of Lyra
+                            <span
+                                className={'font-bold text-[48px] text-[#243642] text-left break-normal leading-[1.1] overflow-hidden'}>
+                                {seedData.teamName}
                             </span>
                         </div>
                     </div>
-                    <div className={'w-full flex flex-col h-[400px] bg-[#e2f1e7] rounded-b-[15px] mt-[6px] pt-[14px] pb-[25px] pl-[24px] pr-[24px]'}>
+                    <div
+                        className={'w-full flex flex-col h-[400px] bg-[#e2f1e7] rounded-b-[15px] mt-[6px] pt-[14px] pb-[25px] pl-[24px] pr-[24px]'}>
                         {seedData.players.map((player, index) => (
-                            <div key={player.index} className={'flex flex-row items-center h-[90px] mb-[19px]'}>
-                                <img src={`https://a.ppy.sh/${player.userId}`} alt="player avatar" className={'w-[90px] h-[90px] rounded-md border-4 border-[#243642]'}/>
+                            <div key={index} className={'flex flex-row items-center h-[90px] mb-[19px]'}>
+                                <img src={`https://a.ppy.sh/${player.userId}`} alt="player avatar"
+                                     className={'w-[90px] h-[90px] rounded-md border-4 border-[#243642]'}/>
                                 <div className={'flex justify-between w-full'}>
                                     <div className={'flex flex-col ml-[15px] justify-center h-full'}>
                                         <span
@@ -88,18 +93,23 @@ function Home() {
                 </div>
                 <div className={'maps-info w-[1170px] flex flex-col gap-[16px] h-full text-white'}>
                     {seedData.scores.map((score, index) => (
-                        <div key={index} className={"flex flex-row w-full h-[64px] rounded-lg bg-[#e2f1e7] p-[8px]"}>
-                            <img src="/placeholder.jpg" alt="map bg" className={'object-cover h-full w-[190px] rounded-[5px]'}/>
+                        <div key={index}
+                             className={"flex flex-row w-full h-[64px] rounded-lg bg-[rgba(0,0,0,0)] p-[8px]"}>
+                            <a alt="map bg" className={'object-cover h-full w-[190px] rounded-[5px]'}/>
                             <div className={'maps-info-details flex flex-col w-[778px] h-full ml-[15px]'}>
-                                <div className={'maps-info-details-name inline-block text-[#387478] font-bold text-[22px]'}>
-                                    San-Z - Original Me
+                                <div
+                                    className={'maps-info-details-name inline-block text-[#387478] font-bold text-[22px]'}>
+                                    ‎
                                 </div>
-                                <div className={'maps-info-details-scores inline-block font-bold text-[18px] -mt-1 text-[#243642]'}>
-                                    {`${score.players[0].username} • ${formatScore(score.players[0].score)} • ${score.players[0].accuracy}% • ${score.players[1].username} • ${formatScore(score.players[1].score)} • ${score.players[1].accuracy}%`}
+                                <div
+                                    className={'maps-info-details-scores inline-block font-bold text-[18px] -mt-1.5 text-[#243642]'}>
+                                    {`${score.players[0].username} • ${formatScore(score.players[0].score)} • ${score.players[0].accuracy}%‎‎‎‎‎‏‏‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎♦‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎${score.players[1].username} • ${formatScore(score.players[1].score)} • ${score.players[1].accuracy}%`}
                                 </div>
                             </div>
-                            <div className={'maps-info-map-scores flex justify-between items-center bg-[#387478] h-full w-[160px] ml-[9px] rounded-lg'}>
-                                <div className={'map-score-font text-white font-bold text-[37px] ml-[11px] h-full flex items-center'}>
+                            <div
+                                className={'maps-info-map-scores flex justify-between items-center bg-[rgba(0,0,0,0)] h-full w-[160px] ml-[9px] rounded-lg'}>
+                                <div
+                                    className={'map-score-font text-white font-bold text-[37px] ml-[11px] h-full flex items-center'}>
                                     #{score.rank}
                                 </div>
                                 <div className={'text-end text-[13px] self-end mr-[6px] mb-[4px]'}>
