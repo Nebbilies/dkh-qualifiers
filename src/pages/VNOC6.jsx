@@ -85,10 +85,10 @@ function VNOC6() {
     }, [seed]);
 
     return (
-        <main className={'p-[50px] border-black w-[1920px] h-[1080px] flex flex-col bg-[#1F0D0C]'}>
+        <main className={'p-[50px] border-black w-[1920px] h-[1080px] flex flex-col bg-transparent'}>
             <div className='info-container flex w-full h-[864px] gap-[40px]'>
                 <div className={"w-[610px] flex flex-col h-full text-white"}>
-                    <motion.div key={seed} className={'w-full h-[342px] bg-[#FFA2A2] rounded-[10px] flex flex-col items-center p-[30px]'}>
+                    <motion.div key={seed} className={'w-full h-[342px] bg-transparent rounded-[10px] flex flex-col items-center p-[30px]'}>
                         <motion.div className={'font-extrabold text-[#381717] text-[40px] mb-[29px] h-[41px] self-start'}
                                     initial={{ opacity: 0 }}
                                     animate={{ opacity: 1 }}
@@ -96,8 +96,8 @@ function VNOC6() {
                         transition={{ duration: 0.5, delay: 2 }}>
                             {seedData[0].username}
                         </motion.div>
-                        <div className={'w-full border-[4px] border-[#753836] rounded-[8px] h-0 mb-[27px]'}>
-                        </div>
+                        {/*<div className={'w-full border-[4px] border-[#753836] rounded-[8px] h-0 mb-[27px]'}>
+                        </div>*/}
                         <motion.div className={'flex flex-row w-full h-[180px] self-start gap-[20px]'}
                              initial={{ opacity: 0 }}
                              animate={{ opacity: 1 }}
@@ -108,7 +108,7 @@ function VNOC6() {
                             />
                             <div className={'flex flex-col'}>
                                 <div
-                                    className={'h-[60px] rounded-l-[50px] w-[380px] pr-[-30px] bg-[#753836] text-white font-extrabold text-[40px] pl-[45px] mb-[12px]'}>
+                                    className={'h-[60px] rounded-l-[50px] w-[380px] pr-[-30px] bg-transparent text-white font-extrabold text-[40px] pl-[45px] mb-[12px]'}>
                                     SEED #{seed}
                                 </div>
                                 <div className={'inline-block font-bold text-[22px] text-[#381717]'}>
@@ -125,12 +125,12 @@ function VNOC6() {
                     </motion.div>
                     <div className={'w-full flex h-[50px] mt-[20px] gap-[20px]'}>
                         <div
-                            className={'w-[270px] h-[50px] bg-[#F3F3F3] rounded-[8px] font-extrabold text-[20px] text-[#323232] flex items-center justify-between px-[28px] tracking-wide'}>
+                            className={'w-[270px] h-[50px] bg-transparent rounded-[8px] font-extrabold text-[20px] text-[#323232] flex items-center justify-between px-[28px] tracking-wide'}>
                             <span>VNOC5 SEED</span>
                             <span>#{formatNumber(playerStats.vnoc5Seed)}</span>
                         </div>
                         <div
-                            className={'w-[320px] h-[50px] bg-[#DAFFCA] rounded-[8px] font-extrabold text-[20px] text-[#304029] flex items-center justify-between px-[28px] tracking-wide leading-none'}>
+                            className={'w-[320px] h-[50px] bg-transparent rounded-[8px] font-extrabold text-[20px] text-[#304029] flex items-center justify-between px-[28px] tracking-wide leading-none'}>
                                 <span>SIP RATING <span className={'opacity-60 italic text-[15px]'}>(!sip)</span> </span>
                             <span>{formatNumber(playerStats.sipRating)}</span>
                         </div>
@@ -141,7 +141,7 @@ function VNOC6() {
                                 </div>
                         ))}
                     </div>
-                    <div className={'w-full h-[408px] rounded-[10px] bg-[#0F0606] mt-[20px]'}>
+                    <div className={'w-full h-[408px] rounded-[10px] bg-transparent mt-[20px]'}>
 
                     </div>
                 </div>
@@ -150,7 +150,7 @@ function VNOC6() {
                         <div key={score.score}
                              className={"w-full h-[64px] bg-[rgba(0,0,0,0)] gap-[20px] flex items-center"}>
                             <div className={'flex flex-row w-[1030px] rounded-[5px] p-[6px] h-full' +
-                                `${score.map.substring(0, 2) === 'NM' ? ' bg-[#65A8FF]' : score.map.substring(0, 2) === 'HD' ? ' bg-[#FFDB65]' : score.map.substring(0, 2) === 'HR' ? ' bg-[#FF6A65]' : score.map.substring(0, 2) === 'DT' ? ' bg-[#CC65FF]' : ''}`}>
+                                `${score.map.substring(0, 2) === 'NM' ? ' bg-[#65A8FF]' : score.map.substring(0, 2) === 'HD' ? ' bg-[#FFDB65]' : score.map.substring(0, 2) === 'HR' ? ' bg-[#FF6A65]' : score.map.substring(0, 2) === 'DT' ? ' bg-[#CC65FF]' : ''}*/`}>
                                 <a alt="map bg" className={'object-cover h-full w-[190px] rounded-[5px]'}/>
                                 <div className={'maps-info-details flex flex-col w-[778px] h-full ml-[10px]'}>
                                     <div
