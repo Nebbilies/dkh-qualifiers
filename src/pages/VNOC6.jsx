@@ -175,18 +175,24 @@ function VNOC6() {
                                 </div>
                             </div>
 
-                            <div
+                            <motion.div
                                 className={'maps-info-map-scores flex justify-between items-center bg-[rgba(0,0,0,0)] h-full w-[120px] rounded-[5px] border-[4px]' +
-                                    `${score.map.substring(0, 2) === 'NM' ? ' border-[#43689B]' : score.map.substring(0, 2) === 'HD' ? ' border-[#9B8643]' : score.map.substring(0, 2) === 'HR' ? ' border-[#9B4643]' : score.map.substring(0, 2) === 'DT' ? ' border-[#7E439B]' : ''}`}>
-                                <div
+                                    `${score.map.substring(0, 2) === 'NM' ? ' border-[#43689B]' : score.map.substring(0, 2) === 'HD' ? ' border-[#9B8643]' : score.map.substring(0, 2) === 'HR' ? ' border-[#9B4643]' : score.map.substring(0, 2) === 'DT' ? ' border-[#7E439B]' : ''}`}
+                            >
+                                <motion.div
+                                    variants={fadeIn}
+                                    initial="initial"
+                                    animate="animate"
+                                    exit="exit"
+                                    transition={{duration: 0.3, delay: 0.5 + 0.1 * index}}
                                     className={'map-score-font font-bold text-[37px] ml-[11px] h-full flex items-center'
                                 + `${score.map.substring(0, 2) === 'NM' ? ' text-[#A2C9FF]' : score.map.substring(0, 2) === 'HD' ? ' text-[#FFE9A2]' : score.map.substring(0, 2) === 'HR' ? ' text-[#FFA5A2]' : score.map.substring(0, 2) === 'DT' ? ' text-[#E0A2FF]' : ''}`}>
                                     #{calculateMapSeed(score)}
-                                </div>
+                                </motion.div>
                                 <div className={'text-end text-[13px] self-end mr-[6px] mb-[4px]'}>
 
                                 </div>
-                            </div>
+                            </motion.div>
                         </div>
                     ))}
                 </div>
